@@ -3,14 +3,34 @@ library(zoo)
 
 # Download data ---------------------------------------------------------------
 
+# kofbarometer
 # KOF Business Situation Indicator for the manufacturing sector and
 # Expected order intake in the manufacturing sector
 kof_ts <- get_time_series(c(
+  "kofbarometer",
   "ch.kof.inu.ng08.fx.q_ql_ass_bs.balance",
   "ch.kof.inu.ng08.fx.q_ql_exp_chg_order_in_n3m.balance.d11"
 ))
 
 # data with structure specification ------------------------------------------
+
+# kofbarometer
+kofbarometer <- data.frame(
+  date = as.POSIXct(paste(as.Date(time(kof_ts$kofbarometer)),
+                          "00:00:00",
+                          sep = " "
+  )),
+  value = coredata(kof_ts$kofbarometer),
+  topic = "Wirtschaft",
+  variable_short = "konjunkturbarometer",
+  variable_long = "Indikator für die Schweizer Konjunktur",
+  location = "CH",
+  unit = "Anteil",
+  source = "KOF Konjunkturforschungsstelle",
+  update = "monatlich",
+  public = "ja",
+  description = "https://github.com/KOF-ch/economic-monitoring"
+)
 
 # Business Situation Indicator for the manufacturing sector
 bs_manufactur <- data.frame(
@@ -48,7 +68,8 @@ exp_chg_order_in_manufactur <- data.frame(
   description = "https://github.com/KOF-ch/economic-monitoring"
 )
 
-kof_ind<-rbind(bs_manufactur, 
+kof_ind<-rbind(kofbarometer,
+               bs_manufactur, 
                exp_chg_order_in_manufactur)
 
 
