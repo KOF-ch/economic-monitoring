@@ -1,7 +1,7 @@
-# economic-monitoring - 
+# economic-monitoring
 
-This repository disseminates high frequency economic datasets to monitor the Swiss economy.
-Data in this respository are published in machine readable fashion in order to foster effective, frustration free data exchange and processing. 
+This repository disseminates **high frequency** economic datasets to monitor the Swiss economy.
+**Data** in this respository are published in **machine readable** fashion in order to foster effective, frustration free data exchange and processing. 
 
 ## Project Structure 
 
@@ -11,9 +11,16 @@ Data in this respository are published in machine readable fashion in order to f
 
 -->
 
-- **data folder data-statistikZH-monitoring/** 
-contains publicly indicators created by the KOF Swiss Economic Institute in the
-.csv format suggested by statistikZH. Data are exported to feed https://statistikzh.github.io/covid19monitoring/ .
+### data folder data-statistikZH-monitoring/ 
+contains indicators created and/or processed by the KOF Swiss Economic Institute. Made available in a .csv format flavor suggested by statistikZH. Data are exported to feed https://statistikzh.github.io/covid19monitoring/ .
+
+**currently available indicators**
+
+- KOF Barometer
+- KOF Manufacturing Survey 'Business Siutation' (enhanced frequency)
+- KOF Manufacturing Survey 'Expected Order Income' (enhanced frequency)
+- SECO Daily Jobroom Candidates Count tracked by KOF
+
 
 <!--
 - data-status
