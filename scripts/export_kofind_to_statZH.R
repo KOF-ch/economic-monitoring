@@ -74,4 +74,4 @@ kof_ind<-rbind(kofbarometer,
 
 
 # Export  ---------------------------------------------------------------------
-write.table(kof_ind, "kof_indicators.csv", sep=",", fileEncoding="UTF-8", row.names = F)
+write.table(kof_ind, "../data-statistikZH-monitoring/kof_indicators.csv", sep=",", fileEncoding="UTF-8", row.names = F)
