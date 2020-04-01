@@ -4,12 +4,14 @@ library(zoo)
 # Download data ---------------------------------------------------------------
 
 # kofbarometer
-# KOF Business Situation Indicator for the manufacturing sector and
+# KOF Business Situation Indicator for the manufacturing sector
 # Expected order intake in the manufacturing sector
+# Job seekers according to job-room.ch
 kof_ts <- get_time_series(c(
   "kofbarometer",
   "ch.kof.inu.ng08.fx.q_ql_ass_bs.balance",
-  "ch.kof.inu.ng08.fx.q_ql_exp_chg_order_in_n3m.balance.d11"
+  "ch.kof.inu.ng08.fx.q_ql_exp_chg_order_in_n3m.balance.d11",
+  "ch.seco.jobroom.candidates.total.total"
 ))
 
 # data with structure specification ------------------------------------------
@@ -68,10 +70,32 @@ exp_chg_order_in_manufactur <- data.frame(
   description = "https://github.com/KOF-ch/economic-monitoring"
 )
 
+# Job seekers according to www.job-room.ch
+jobroom <- data.frame(
+  date = as.POSIXct(paste(as.Date(time(kof_ts$ch.seco.jobroom.candidates.total.total)),
+                          "00:00:00",
+                          sep = " "
+  )),
+  value = coredata(kof_ts$ch.seco.jobroom.candidates.total.total),
+  topic = "Wirtschaft",
+  variable_short = "arbeitsuchende_jobroom",
+  variable_long = "Arbeitsuchende gemäss Jobroom.ch",
+  location = "CH",
+  unit = "Anzahl",
+  source = "SECO job-room.ch und KOF Konjunkturforschungsstelle",
+  update = "täglich",
+  public = "ja",
+  description = "https://github.com/KOF-ch/economic-monitoring"
+)
+
+
 kof_ind<-rbind(kofbarometer,
                bs_manufactur, 
-               exp_chg_order_in_manufactur)
+               exp_chg_order_in_manufactur,
+               jobroom)
 
 
 # Export  ---------------------------------------------------------------------
-write.table(kof_ind, "../data-statistikZH-monitoring/kof_indicators.csv", sep=",", fileEncoding="UTF-8", row.names = F)
+write.table(kof_ind, 
+            file.path("data-statistikZH-monitoring","kof_indicators.csv"), 
+            sep=",", fileEncoding="UTF-8", row.names = F)
