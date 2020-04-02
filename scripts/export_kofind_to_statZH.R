@@ -89,10 +89,11 @@ jobroom <- data.frame(
 )
 
 
-kof_ind<-rbind(kofbarometer,
-               bs_manufactur, 
-               exp_chg_order_in_manufactur,
-               jobroom)
+kof_ind<-rbind(kofbarometer[!is.na(kofbarometer$value),],
+               bs_manufactur[!is.na(bs_manufactur$value),], 
+               exp_chg_order_in_manufactur[!is.na(exp_chg_order_in_manufactur$value),],
+               jobroom[!is.na(jobroom$value),])
+
 
 
 # Export  ---------------------------------------------------------------------
