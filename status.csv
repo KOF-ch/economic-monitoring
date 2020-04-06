@@ -1,7 +1,8 @@
-set_id,time
-ch.zueriluft,2020-04-02 09:42:38
-ch.seco.jobroom.candidates,2020-04-02 09:41:22
-ch.zrh_airport.arrivals,2020-04-02 10:02:13
-ch.zrh_city.parking,2020-04-02 09:42:33
-ch.zrh_city.traffic,2020-04-02 09:42:38
-ch.zrh_airport.departures,2020-04-02 10:02:13
+set_id,time,public,file
+ch.zrh_airport.arrivals.csv,2020-04-06 09:44:53,TRUE,ch.zrh_airport.arrivals
+ch.zrh_city.parking.csv,2020-04-06 10:19:02,TRUE,ch.zrh_city.parking
+ch.zrh_city.traffic.csv,2020-04-03 09:27:31,TRUE,ch.zrh_city.traffic
+ch.seco.jobroom.candidates.csv,2020-04-06 09:44:34,TRUE,ch.seco.jobroom.candidates
+ch.zrh_airport.departures.csv,2020-04-06 09:44:53,TRUE,ch.zrh_airport.departures
+ch.zueriluft.csv,2020-04-06 09:46:25,TRUE,ch.zueriluft
+ch.seco.jobroom.vacancies.csv,2020-04-06 10:17:37,TRUE,ch.seco.jobroom.vacancies
