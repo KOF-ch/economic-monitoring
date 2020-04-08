@@ -1,0 +1,160 @@
+{
+  "title": {
+    "en": "Number of people looking for work on jobroom.ch"
+  },
+  "source.name": {
+    "en": "State Secretariat for Economic Affairs"
+  },
+  "source_url": "https://www.job-room.ch/home/company",
+  "units": {
+    "all": {
+      "en": "Number of people"
+    }
+  },
+  "aggregate": {
+    "all": "mean"
+  },
+  "dim.order": ["geo", "availability"],
+  "hierarchy": {
+    "availability": {
+      "tot": {
+        "immediate": null
+      }
+    },
+    "geo": {
+      "tot": {
+        "ag": null,
+        "ai": null,
+        "ar": null,
+        "be": null,
+        "bl": null,
+        "bs": null,
+        "fr": null,
+        "ge": null,
+        "gl": null,
+        "gr": null,
+        "ju": null,
+        "lu": null,
+        "ne": null,
+        "nw": null,
+        "ow": null,
+        "sg": null,
+        "sh": null,
+        "so": null,
+        "sz": null,
+        "tg": null,
+        "ti": null,
+        "ur": null,
+        "vd": null,
+        "vs": null,
+        "zg": null,
+        "zh": null
+      }
+    }
+  },
+  "labels": {
+    "dimnames": {
+      "availability": {
+        "en": "Availability"
+      },
+      "geo": {
+        "en": "Canton"
+      }
+    },
+    "availability": {
+      "tot": {
+        "en": "Total"
+      },
+      "immediate": {
+        "en": "Available immediately"
+      }
+    },
+    "geo": {
+      "tot": {
+        "en": "Total"
+      },
+      "ag": {
+        "en": "Aargau"
+      },
+      "ai": {
+        "en": "Appenzell Innerrhoden"
+      },
+      "ar": {
+        "en": "Appenzell Ausserrhoden"
+      },
+      "be": {
+        "en": "Berne"
+      },
+      "bl": {
+        "en": "Basel-Landschaft"
+      },
+      "bs": {
+        "en": "Basel-Stadt"
+      },
+      "fr": {
+        "en": "Fribourg"
+      },
+      "ge": {
+        "en": "Geneva"
+      },
+      "gl": {
+        "en": "Glarus"
+      },
+      "gr": {
+        "en": "Grisons"
+      },
+      "ju": {
+        "en": "Jura"
+      },
+      "lu": {
+        "en": "Lucerne"
+      },
+      "ne": {
+        "en": "Neuchâtel"
+      },
+      "nw": {
+        "en": "Nidwalden"
+      },
+      "ow": {
+        "en": "Obwalden"
+      },
+      "sg": {
+        "en": "St. Gallen"
+      },
+      "sh": {
+        "en": "Schaffhausen"
+      },
+      "so": {
+        "en": "Solothurn"
+      },
+      "sz": {
+        "en": "Schwyz"
+      },
+      "tg": {
+        "en": "Thurgau"
+      },
+      "ti": {
+        "en": "Ticino"
+      },
+      "ur": {
+        "en": "Uri"
+      },
+      "vd": {
+        "en": "Vaud"
+      },
+      "vs": {
+        "en": "Valais"
+      },
+      "zg": {
+        "en": "Zug"
+      },
+      "zh": {
+        "en": "Zürich"
+      }
+    }
+  },
+  "details": {
+    "en": "This series represents the total number of candidates appearing on jobroom.ch for the given criteria on a given day."
+  },
+  "utc.updated": "2020-04-07 22:01:02"
+}

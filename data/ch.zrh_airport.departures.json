@@ -1,0 +1,129 @@
+{
+  "title": {
+    "en": "Number of departures from Zürich Airport"
+  },
+  "source.name": {
+    "en": "Zürich Airport"
+  },
+  "source_url": "https://www.flughafen-zuerich.ch/unternehmen/laerm-politik-und-umwelt/flugbewegungen/bewegungsstatistik",
+  "units": {
+    "all": {
+      "en": "Number of flights"
+    }
+  },
+  "aggregate": {
+    "all": "mean"
+  },
+  "dim.order": ["direction", "rnwy", "route"],
+  "hierarchy": {
+    "direction": {
+      "departure": null
+    },
+    "rnwy": {
+      "all": {
+        "10": null,
+        "16": null,
+        "28": null,
+        "32": null,
+        "34": null
+      }
+    },
+    "route": {
+      "total": {
+        "A": null,
+        "B": null,
+        "C": null,
+        "D": null,
+        "E": null,
+        "F": null,
+        "G": null,
+        "I": null,
+        "K": null,
+        "L": null,
+        "N": null,
+        "O": null
+      }
+    }
+  },
+  "labels": {
+    "dimnames": {
+      "direction": {
+        "en": "Arrival vs Departure"
+      },
+      "rnwy": {
+        "en": "Runway"
+      },
+      "route": {
+        "en": "Route"
+      }
+    },
+    "direction": {
+      "departure": "Departing flights"
+    },
+    "rnwy": {
+      "all": {
+        "en": "Total"
+      },
+      "10": {
+        "en": "Runway 10"
+      },
+      "16": {
+        "en": "Runway 16"
+      },
+      "28": {
+        "en": "Runway 28"
+      },
+      "32": {
+        "en": "Runway 32"
+      },
+      "34": {
+        "en": "Runway 34"
+      }
+    },
+    "route": {
+      "total": {
+        "en": "Total"
+      },
+      "A": {
+        "en": "Route A"
+      },
+      "B": {
+        "en": "Route B"
+      },
+      "C": {
+        "en": "Route C"
+      },
+      "D": {
+        "en": "Route D"
+      },
+      "E": {
+        "en": "Route E"
+      },
+      "F": {
+        "en": "Route F"
+      },
+      "G": {
+        "en": "Route G"
+      },
+      "I": {
+        "en": "Route I"
+      },
+      "K": {
+        "en": "Route K"
+      },
+      "L": {
+        "en": "Route L"
+      },
+      "N": {
+        "en": "Route N"
+      },
+      "O": {
+        "en": "Route O"
+      }
+    }
+  },
+  "details": {
+    "en": "Details on the routes can be found at https://www.flughafen-zuerich.ch/~/media/flughafenzh/dokumente/das_unternehmen/laerm_politik_und_umwelt/flugrouten_2013.pdf"
+  },
+  "utc.updated": "2020-04-07 22:01:21"
+}

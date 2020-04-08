@@ -1,0 +1,89 @@
+{
+  "title": {
+    "en": "Number of arrivals at Zürich Airport"
+  },
+  "source.name": {
+    "en": "Zürich Airport"
+  },
+  "source_url": "https://www.flughafen-zuerich.ch/unternehmen/laerm-politik-und-umwelt/flugbewegungen/bewegungsstatistik",
+  "units": {
+    "all": {
+      "en": "Number of flights"
+    }
+  },
+  "aggregate": {
+    "all": "mean"
+  },
+  "dim.order": ["direction", "rnwy", "time_frame"],
+  "hierarchy": {
+    "direction": {
+      "arrival": null
+    },
+    "rnwy": {
+      "all": {
+        "14": null,
+        "16": null,
+        "28": null,
+        "34": null
+      }
+    },
+    "time_frame": {
+      "total": {
+        "0006": null,
+        "0622": null,
+        "2200": null
+      }
+    }
+  },
+  "labels": {
+    "dimnames": {
+      "direction": {
+        "en": "Arrival vs Departure"
+      },
+      "rnwy": {
+        "en": "Runway"
+      },
+      "time_frame": {
+        "en": "Time frame"
+      }
+    },
+    "direction": {
+      "arrival": "Arriving flights"
+    },
+    "rnwy": {
+      "all": {
+        "en": "Total"
+      },
+      "14": {
+        "en": "Runway 14"
+      },
+      "16": {
+        "en": "Runway 16"
+      },
+      "28": {
+        "en": "Runway 28"
+      },
+      "34": {
+        "en": "Runway 34"
+      },
+      "time_frame": {
+        "total": {
+          "en": "0:00 to 24:00"
+        },
+        "0006": {
+          "en": "0:00 to 6:00"
+        },
+        "0622": {
+          "en": "6:00 to 22:00"
+        },
+        "2200": {
+          "en": "22:00 to 24:00"
+        }
+      }
+    }
+  },
+  "details": {
+    "en": "Details on the runways can be found at https://www.flughafen-zuerich.ch/~/media/flughafenzh/dokumente/das_unternehmen/laerm_politik_und_umwelt/flugrouten_2013.pdf"
+  },
+  "utc.updated": "2020-04-07 22:01:21"
+}
