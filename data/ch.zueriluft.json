@@ -1,0 +1,120 @@
+{
+  "title": {
+    "en": "Airquality in Zürich"
+  },
+  "source.name": {
+    "en": "City of Zürich"
+  },
+  "source_url": "https://www.stadt-zuerich.ch/content/gud/de/index/umwelt_energie/luftqualitaet.html",
+  "units": {
+    "variable": {
+      "kbi": {
+        "en": "category"
+      },
+      "kbi_no2": {
+        "en": "category"
+      },
+      "kbi_o3": {
+        "en": "category"
+      },
+      "kbi_pm10": {
+        "en": "category"
+      },
+      "no2": {
+        "en": "µg/m3"
+      },
+      "o3_max_h": {
+        "en": "µg/m3"
+      },
+      "p": {
+        "en": "hPa"
+      },
+      "t": {
+        "en": "°C"
+      },
+      "pm10": {
+        "en": "µg/m3"
+      }
+    }
+  },
+  "aggregate": {
+    "all": "mean"
+  },
+  "dim.order": ["geo", "variable"],
+  "hierarchy": {
+    "geo": {
+      "zrh_heub": null,
+      "zrh_rsgrt": null,
+      "zrh_schmls": null,
+      "zrh_stmpf": null
+    },
+    "variable": {
+      "kbi": null,
+      "kbi_no2": null,
+      "kbi_o3": null,
+      "kbi_pm10": null,
+      "no2": null,
+      "o3_max_h": null,
+      "p": null,
+      "t": null,
+      "pm10": null
+    }
+  },
+  "labels": {
+    "dimnames": {
+      "geo": {
+        "en": "Location"
+      },
+      "variable": {
+        "en": "Variable"
+      }
+    },
+    "geo": {
+      "zrh_heub": {
+        "en": "Zürich Heubeeribüel"
+      },
+      "zrh_rsgrt": {
+        "en": "Zürich Rosengartenstrasse"
+      },
+      "zrh_schmls": {
+        "en": "Zürich Schimmelstrasse"
+      },
+      "zrh_stmpf": {
+        "en": "Zürich Stampfenbachstrasse"
+      }
+    },
+    "variable": {
+      "kbi": {
+        "en": "Kurzzeit-Belastungsindex"
+      },
+      "kbi_no2": {
+        "en": "KBI Teilindex Stickstoffdioxid"
+      },
+      "kbi_o3": {
+        "en": "KBI Teilindex Ozon"
+      },
+      "kbi_pm10": {
+        "en": "KBI Teilindex Feinstaub"
+      },
+      "no2": {
+        "en": "Stickstoffdioxid"
+      },
+      "o3_max_h": {
+        "en": "Ozon, höchstes Stundenmittel"
+      },
+      "p": {
+        "en": "Luftdruck"
+      },
+      "pm10": {
+        "en": "Feinstaub PM10"
+      },
+      "t": {
+        "en": "Lufttemperatur"
+      }
+    }
+  },
+  "details": {
+    "en": "Additional metadata can be found at http://ogd.zueriluft.ch/api/v1/metadaten.json"
+  },
+  "utc.updated": "2020-04-08 18:03:59"
+}

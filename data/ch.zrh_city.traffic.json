@@ -1,0 +1,760 @@
+{
+  "title": {
+    "en": "Traffic count for the City of Zürich"
+  },
+  "source.name": {
+    "en": "City of Zürich"
+  },
+  "source_url": "https://data.stadt-zuerich.ch",
+  "units": {
+    "all": {
+      "en": "Number of vehicles"
+    }
+  },
+  "aggregate": {
+    "all": "mean"
+  },
+  "dim.order": "id",
+  "hierarchy": {
+    "id": {
+      "total": {
+        "Z040M001": null,
+        "Z014M002": null,
+        "Z019M002": null,
+        "Z079M004": null,
+        "Z089M001": null,
+        "Z077M001": null,
+        "Z026M001": null,
+        "Z078M001": null,
+        "Z087M001": null,
+        "Z065M001": null,
+        "Z001M001": null,
+        "Z096M003": null,
+        "Z056M003": null,
+        "Z005M002": null,
+        "Z018M001": null,
+        "Z088M002": null,
+        "Z074M002": null,
+        "Z025M002": null,
+        "Z032M002": null,
+        "Z020M002": null,
+        "Z037M001": null,
+        "Z028M002": null,
+        "Z035M002": null,
+        "Z080M005": null,
+        "Z061M002": null,
+        "Z075M001": null,
+        "Z062M002": null,
+        "Z072M002": null,
+        "Z031M002": null,
+        "Z009M001": null,
+        "Z003M002": null,
+        "Z029M001": null,
+        "Z027M001": null,
+        "Z046M002": null,
+        "Z010M002": null,
+        "Z071M002": null,
+        "Z041M002": null,
+        "Z001M002": null,
+        "Z052M002": null,
+        "Z076M002": null,
+        "Z020M001": null,
+        "Z096M004": null,
+        "Z063M001": null,
+        "Z013M002": null,
+        "Z055M001": null,
+        "Z032M001": null,
+        "Z011M001": null,
+        "Z052M001": null,
+        "Z043M002": null,
+        "Z075M003": null,
+        "Z006M002": null,
+        "Z089M002": null,
+        "Z036M001": null,
+        "Z006M001": null,
+        "Z050M002": null,
+        "Z017M001": null,
+        "Z037M002": null,
+        "Z021M002": null,
+        "Z002M001": null,
+        "Z002M002": null,
+        "Z088M001": null,
+        "Z054M002": null,
+        "Z025M001": null,
+        "Z031M001": null,
+        "Z086M004": null,
+        "Z079M003": null,
+        "Z046M001": null,
+        "Z027M003": null,
+        "Z022M002": null,
+        "Z065M002": null,
+        "Z030M002": null,
+        "Z093M001": null,
+        "Z057M001": null,
+        "Z039M004": null,
+        "Z016M004": null,
+        "Z084M001": null,
+        "Z070M002": null,
+        "Z069M002": null,
+        "Z026M002": null,
+        "Z033M002": null,
+        "Z010M001": null,
+        "Z064M004": null,
+        "Z062M001": null,
+        "Z066M002": null,
+        "Z051M001": null,
+        "Z004M001": null,
+        "Z084M002": null,
+        "Z090M002": null,
+        "Z090M001": null,
+        "Z059M002": null,
+        "Z082M001": null,
+        "Z014M001": null,
+        "Z044M002": null,
+        "Z058M001": null,
+        "Z004M002": null,
+        "Z007M001": null,
+        "Z085M004": null,
+        "Z049M002": null,
+        "Z081M002": null,
+        "Z011M002": null,
+        "Z029M002": null,
+        "Z048M002": null,
+        "Z007M002": null,
+        "Z047M001": null,
+        "Z050M001": null,
+        "Z040M002": null,
+        "Z082M002": null,
+        "Z076M001": null,
+        "Z057M002": null,
+        "Z060M006": null,
+        "Z045M002": null,
+        "Z038M002": null,
+        "Z095M001": null,
+        "Z072M001": null,
+        "Z045M001": null,
+        "Z015M001": null,
+        "Z016M003": null,
+        "Z028M001": null,
+        "Z086M003": null,
+        "Z033M001": null,
+        "Z061M001": null,
+        "Z049M001": null,
+        "Z055M002": null,
+        "Z030M001": null,
+        "Z097M002": null,
+        "Z080M006": null,
+        "Z095M002": null,
+        "Z053M002": null,
+        "Z044M001": null,
+        "Z009M002": null,
+        "Z013M001": null,
+        "Z054M001": null,
+        "Z073M002": null,
+        "Z041M001": null,
+        "Z063M002": null,
+        "Z036M002": null,
+        "Z059M001": null,
+        "Z008M002": null,
+        "Z068M001": null,
+        "Z053M001": null,
+        "Z035M001": null,
+        "Z078M002": null,
+        "Z092M002": null,
+        "Z083M001": null,
+        "Z091M001": null,
+        "Z005M001": null,
+        "Z081M001": null,
+        "Z015M002": null,
+        "Z038M001": null,
+        "Z071M001": null,
+        "Z068M002": null,
+        "Z087M002": null,
+        "Z070M001": null,
+        "Z097M001": null,
+        "Z017M002": null,
+        "Z022M001": null,
+        "Z034M002": null,
+        "Z083M003": null,
+        "Z092M001": null,
+        "Z066M001": null,
+        "Z073M001": null,
+        "Z034M001": null,
+        "Z069M001": null,
+        "Z058M002": null,
+        "Z067M001": null,
+        "Z019M001": null,
+        "Z064M003": null,
+        "Z060M005": null,
+        "Z085M003": null,
+        "Z003M001": null,
+        "Z042M002": null,
+        "Z047M002": null,
+        "Z093M002": null,
+        "Z018M002": null,
+        "Z056M004": null,
+        "Z051M002": null,
+        "Z021M001": null,
+        "Z043M001": null,
+        "Z008M001": null,
+        "Z048M001": null
+      }
+    }
+  },
+  "labels": {
+    "dimnames": {
+      "id": {
+        "en": "Station ID"
+      }
+    },
+    "id": {
+      "total": {
+        "en": "Sum of all stations"
+      },
+      "Z040M001": {
+        "en": "Seebahnstrasse ab Kalkbreitenstrasse in Richtung Hohlstrasse"
+      },
+      "Z014M002": {
+        "en": "Weststrasse (Wallisellen) Auf Rampe 50m vor Ueberlandstrasse in Richtung einwärts"
+      },
+      "Z019M002": {
+        "en": "Witikonerstrasse 449 in Richtung einwärts"
+      },
+      "Z079M004": {
+        "en": "A3W (A4) Brunau in Richtung einwärts"
+      },
+      "Z089M001": {
+        "en": "Wallisellenstrasse vor Saatlenstrasse in Richtung auswärts"
+      },
+      "Z077M001": {
+        "en": "Sihlhölzlibrücke ab Sihlhölzlistrasse in Richtung Manessestrasse"
+      },
+      "Z026M001": {
+        "en": "Rosengartenstrasse vor Röschibachstrasse in Richtung Bucheggplatz"
+      },
+      "Z078M001": {
+        "en": "Birmensdorferstrasse 380 in Richtung auswärts"
+      },
+      "Z087M001": {
+        "en": "Wehntalerstrasse 153 in Richtung Affoltern"
+      },
+      "Z065M001": {
+        "en": "Hardturmstrasse Fischerweg in Richtung auswärts"
+      },
+      "Z001M001": {
+        "en": "Seestrasse 451 in Richtung auswärts"
+      },
+      "Z096M003": {
+        "en": "Katzenschwanzstrasse ab Witikonerstrasse in Richtung auswärts"
+      },
+      "Z056M003": {
+        "en": "Zollikerstrasse 85 in Richtung Zollikon"
+      },
+      "Z005M002": {
+        "en": "Albisriederstrasse Lyrenweg in Richtung einwärts"
+      },
+      "Z018M001": {
+        "en": "Tobelhof- und Dreiwiesenstrasse beim Knoten in Richtung auswärts"
+      },
+      "Z088M002": {
+        "en": "Regensbergstrasse vor Birchstrasse in Richtung Oerlikon"
+      },
+      "Z074M002": {
+        "en": "Stauffacherquai ab Stauffacherbrücke in Richtung Hauptbahnhof"
+      },
+      "Z025M002": {
+        "en": "Europabrücke Winzerstrasse in Richtung Altstetten"
+      },
+      "Z032M002": {
+        "en": "Binzmühlestrasse 35 in Richtung Schwamendingen"
+      },
+      "Z020M002": {
+        "en": "Forchstrasse 345 in Richtung einwärts"
+      },
+      "Z037M001": {
+        "en": "Bergstrasse ab Schneckenmannstrasse in Richtung Klusplatz"
+      },
+      "Z028M002": {
+        "en": "Kornhausbrücke ab Rousseaustrasse in Richtung Limmatplatz"
+      },
+      "Z035M002": {
+        "en": "Gutstrasse 116 in Richtung Birmensdorferstrasse"
+      },
+      "Z080M005": {
+        "en": "A3W Brunau in Richtung Chur"
+      },
+      "Z061M002": {
+        "en": "Duttweiler Brücke vor Pfingstweidstrasse in Richtung Pfingstweidstrasse"
+      },
+      "Z075M001": {
+        "en": "Stauffacherbrücke beim Stauffacherquai in Richtung See"
+      },
+      "Z062M002": {
+        "en": "Brunaustrasse ab Knoten in Richtung Allmend"
+      },
+      "Z072M002": {
+        "en": "Manessestrasse Weststrasse in Richtung einwärts"
+      },
+      "Z031M002": {
+        "en": "Quaibrücke ab Bürkliplatz in Richtung Bellevue"
+      },
+      "Z009M001": {
+        "en": "Regensdorferstrasse Im Stelzenacker in Richtung auswärts"
+      },
+      "Z003M002": {
+        "en": "Leimbachstrasse 64 in Richtung einwärts"
+      },
+      "Z029M001": {
+        "en": "Walchebrücke vor Neumühlequai in Richtung Walcheplatz"
+      },
+      "Z027M001": {
+        "en": "Wipkingerbrücke Escher Wyss Platz in Richtung Wipkingerplatz"
+      },
+      "Z046M002": {
+        "en": "Zeltweg 63 in Richtung Heimplatz"
+      },
+      "Z010M002": {
+        "en": "Wehntalerstrasse Holderbachweg in Richtung einwärts"
+      },
+      "Z071M002": {
+        "en": "Badenerstrasse 298 in Richtung Seebahnstrasse"
+      },
+      "Z041M002": {
+        "en": "Usteristrasse 21 in Richtung Löwenplatz"
+      },
+      "Z001M002": {
+        "en": "Seestrasse 451 in Richtung einwärts"
+      },
+      "Z052M002": {
+        "en": "Hirschwiesentunnel Westportal in Richtung Hardbrücke"
+      },
+      "Z076M002": {
+        "en": "Pfingstweidstrasse 40m ab Aargauerstrasse in Richtung einwärts"
+      },
+      "Z020M001": {
+        "en": "Forchstrasse 328 in Richtung auswärts"
+      },
+      "Z096M004": {
+        "en": "Katzenschwanzstrasse vor Witikonerstrasse in Richtung einwärts"
+      },
+      "Z063M001": {
+        "en": "Albisriederstrasse vor Hubertus in Richtung Hubertus"
+      },
+      "Z013M002": {
+        "en": "Thurgauerstrasse Schärenmoosstrasse in Richtung auswärts"
+      },
+      "Z055M001": {
+        "en": "Höschgasse 104 in Richtung See"
+      },
+      "Z032M001": {
+        "en": "Binzmühlestrasse 39 in Richtung Oerlikon"
+      },
+      "Z011M001": {
+        "en": "Glattalstrasse 58 in Richtung auswärts"
+      },
+      "Z052M001": {
+        "en": "Hirschwiesentunnel Westportal in Richtung Winterthur"
+      },
+      "Z043M002": {
+        "en": "Seilergraben Mühlegasse in Richtung Central und Mühlegasse"
+      },
+      "Z075M003": {
+        "en": "Stauffacherstrasse 7 in Richtung Stauffacher"
+      },
+      "Z006M002": {
+        "en": "Zürcherstrasse (Badenerstrassse) 35m ab Knoten in Richtung einwärts"
+      },
+      "Z089M002": {
+        "en": "Wallisellenstrasse ab Saatlenstrasse in Richtung einwärts"
+      },
+      "Z036M001": {
+        "en": "Schweighofstrasse Hägelerweg in Richtung Birmensdorferstrasse"
+      },
+      "Z006M001": {
+        "en": "Zürcherstrasse (Badenerstrassse) 35m ab Knoten in Richtung auswärts"
+      },
+      "Z050M002": {
+        "en": "Europabrücke ab Max-Höngger-Strasse in Richtung Altstetten"
+      },
+      "Z017M001": {
+        "en": "Dübendorfstrasse 394 in Richtung auswärts"
+      },
+      "Z037M002": {
+        "en": "Bergstrasse vor Schneckenmannstrasse in Richtung Vorderberg"
+      },
+      "Z021M002": {
+        "en": "Bellerivestrasse 250 in Richtung einwärts"
+      },
+      "Z002M001": {
+        "en": "Albisstrasse 152 in Richtung auswärts"
+      },
+      "Z002M002": {
+        "en": "Albisstrasse 152 in Richtung einwärts"
+      },
+      "Z088M001": {
+        "en": "Regensbergstrasse ab Birchstrasse in Richtung Affoltern"
+      },
+      "Z054M002": {
+        "en": "Rämistrasse vor Kantonsschulstrasse in Richtung Heimplatz"
+      },
+      "Z025M001": {
+        "en": "Europabrücke Meierwiesenstrasse in Richtung Höngg"
+      },
+      "Z031M001": {
+        "en": "Quaibrücke 135m vor Stadthausquai in Richtung Bürkliplatz"
+      },
+      "Z086M004": {
+        "en": "Binzmühlestrasse ab Seebacherstrasse in Richtung Oerlikon"
+      },
+      "Z079M003": {
+        "en": "A3W (A4) Brunau in Richtung Uetlibergtunnel"
+      },
+      "Z046M001": {
+        "en": "Zeltweg Merkurstrasse in Richtung Kreuzplatz"
+      },
+      "Z027M003": {
+        "en": "Wipkingerbrücke Wipkingerplatz in Richtung Escher Wyss Platz"
+      },
+      "Z022M002": {
+        "en": "Allmendstrasse Ost Brunau in Richtung einwärts"
+      },
+      "Z065M002": {
+        "en": "Hardturmstrasse Fischerweg in Richtung einwärts"
+      },
+      "Z030M002": {
+        "en": "Rudolf Brun-Brücke ab Bahnhofquai in Richtung Mühlegasse"
+      },
+      "Z093M001": {
+        "en": "Hardturmstrasse 253 in Richtung auswärts"
+      },
+      "Z057M001": {
+        "en": "Stockerstrasse 38 in Richtung Stauffacherplatz"
+      },
+      "Z039M004": {
+        "en": "Hardbrücke Hohlstrasse in Richtung Albisriederplatz und Hohlstrasse"
+      },
+      "Z016M004": {
+        "en": "Ueberlandstrasse vor Neue Winterthurerstrasse in Richtung einwärts"
+      },
+      "Z084M001": {
+        "en": "Angererstrasse Tunnelportal in Richtung Sihlhölzli"
+      },
+      "Z070M002": {
+        "en": "Hohlstrasse 167 in Richtung Seebahnstrasse"
+      },
+      "Z069M002": {
+        "en": "Seebahnstrasse 231 in Richtung Badenerstrasse"
+      },
+      "Z026M002": {
+        "en": "Rosengartenstrasse ab Ausfahrt Wipkingerplatz in Richtung Hardplatz"
+      },
+      "Z033M002": {
+        "en": "Milchbucktunnel vor Wasserwerkstrasse in Richtung einwärts"
+      },
+      "Z010M001": {
+        "en": "Wehntalerstrasse Holderbachweg in Richtung auswärts"
+      },
+      "Z064M004": {
+        "en": "Gutstrasse 230 in Richtung Birmensdorferstrasse"
+      },
+      "Z062M001": {
+        "en": "Brunaustrasse vor Knoten in Richtung Enge"
+      },
+      "Z066M002": {
+        "en": "Stauffacherstrasse 151 in Richtung Seebahnstrasse"
+      },
+      "Z051M001": {
+        "en": "Seebacherstrasse ab Binzmühlestrasse in Richtung Seebach"
+      },
+      "Z004M001": {
+        "en": "Birmensdorferstrasse 90m ab Knoten in Richtung auswärts"
+      },
+      "Z084M002": {
+        "en": "Tunnelstrasse Tunnelportal in Richtung Bleicherweg"
+      },
+      "Z090M002": {
+        "en": "Winterthurerstrasse ab Luchswiesenstrasse in Richtung einwärts"
+      },
+      "Z090M001": {
+        "en": "Winterthurerstrasse vor Luchswiesenstrasse in Richtung auswärts"
+      },
+      "Z059M002": {
+        "en": "Neumühlequai 40 in Richtung Central"
+      },
+      "Z082M001": {
+        "en": "Hardstrasse Auffahrtsrampe in Richtung Bucheggplatz"
+      },
+      "Z014M001": {
+        "en": "Weststrasse (Wallisellen) Auf Rampe 50m ab Ueberlandstrasse in Richtung auswärts"
+      },
+      "Z044M002": {
+        "en": "Uraniastrasse ab Bahnhofstrasse in Richtung Brudolf-Brun-Brücke"
+      },
+      "Z058M001": {
+        "en": "Stampfenbachstrasse 56 in Richtung Schaffhauserplatz"
+      },
+      "Z004M002": {
+        "en": "Birmensdorferstrasse vor Knoten in Richtung einwärts"
+      },
+      "Z007M001": {
+        "en": "Bernerstrasse 130m vor Knoten in Richtung einwärts"
+      },
+      "Z085M004": {
+        "en": "Alfred-Escher-Strasse Tunnelportal in Richtung See"
+      },
+      "Z049M002": {
+        "en": "Bahnhofbrücke Bahnhofquai in Richtung Bahnhof"
+      },
+      "Z081M002": {
+        "en": "Pfingstweidstrasse 1 in Richtung Hardbrücke"
+      },
+      "Z011M002": {
+        "en": "Glattalstrasse 83 in Richtung einwärts"
+      },
+      "Z029M002": {
+        "en": "Walchebrücke Vor Museumsstrasse in Richtung Bahnhof"
+      },
+      "Z048M002": {
+        "en": "Rämistrasse ab Oderdorfstrasse in Richtung Bellevue"
+      },
+      "Z007M002": {
+        "en": "Bernerstrasse 130m ab Knoten in Richtung auswärts"
+      },
+      "Z047M001": {
+        "en": "Hottingerstrasse 52 in Richtung Klusplatz"
+      },
+      "Z050M001": {
+        "en": "Europabrücke vor Würzgrabenstrasse in Richtung Höngg"
+      },
+      "Z040M002": {
+        "en": "Seebahnstrasse ab Kalkbreitenstrasse in Richtung Birmensdorferstrasse"
+      },
+      "Z082M002": {
+        "en": "Hardstrasse Abfahrtsrampe in Richtung Albissriederplatz"
+      },
+      "Z076M001": {
+        "en": "Pfingstweidstrasse 70m ab Sportweg in Richtung auswärts"
+      },
+      "Z057M002": {
+        "en": "Stockerstrasse 38 in Richtung See"
+      },
+      "Z060M006": {
+        "en": "Hermetschloobrücke ab Bernerstrasse in Richtung Badenerstrasse"
+      },
+      "Z045M002": {
+        "en": "Talstrasse vor Pelikanstrasse in Richtung Sihlporte"
+      },
+      "Z038M002": {
+        "en": "Rosengartenstrasse 23 in Richtung Hardbrücke"
+      },
+      "Z095M001": {
+        "en": "Schwamendingerstrasse 25m ab Dörflistrasse in Richtung Schwamendingen"
+      },
+      "Z072M001": {
+        "en": "Manessestrasse Weststrasse in Richtung auswärts"
+      },
+      "Z045M001": {
+        "en": "Talstrasse ab Pelikanstrasse in Richtung See"
+      },
+      "Z015M001": {
+        "en": "Neue Winterthurerstrasse Auf Rampe 50m ab Ueberlandstrasse in Richtung auswärts"
+      },
+      "Z016M003": {
+        "en": "Ueberlandstrasse ab Neue Winterthurerstrasse in Richtung auswärts"
+      },
+      "Z028M001": {
+        "en": "Kornhausbrücke vor Rousseaustrasse in Richtung Nord"
+      },
+      "Z086M003": {
+        "en": "Binzmühlestrasse vor Seebacherstrasse in Richtung Affoltern"
+      },
+      "Z033M001": {
+        "en": "Milchbucktunnel ab Wasserwerkstrasse in Richtung auswärts"
+      },
+      "Z061M001": {
+        "en": "Duttweiler Brücke ab Pfingstweidstrasse in Richtung Hohlstrasse"
+      },
+      "Z049M001": {
+        "en": "Bahnhofbrücke Central in Richtung Central"
+      },
+      "Z055M002": {
+        "en": "Höschgasse 104 in Richtung Hegibachplatz"
+      },
+      "Z030M001": {
+        "en": "Rudolf Brun-Brücke ab Limmatquai in Richtung Bahnhofquai"
+      },
+      "Z097M002": {
+        "en": "Hofwiesenstrasse ab Brunnenhofweg in Richtung Bucheggplatz"
+      },
+      "Z080M006": {
+        "en": "A3W Brunau in Richtung einwärts"
+      },
+      "Z095M002": {
+        "en": "Schwamendingerstrasse 25m vor Dörflistrasse in Richtung Oerlikon"
+      },
+      "Z053M002": {
+        "en": "Birchstrasse ab Kreisel in Richtung Glatttalstrasse"
+      },
+      "Z044M001": {
+        "en": "Uraniastrasse vor Bahnhofstrasse in Richtung Sihlporte"
+      },
+      "Z009M002": {
+        "en": "Regensdorferstrasse Im Stelzenacker in Richtung einwärts"
+      },
+      "Z013M001": {
+        "en": "Thurgauerstrasse 59 in Richtung einwärts"
+      },
+      "Z054M001": {
+        "en": "Rämistrasse ab Zürichbergstrasse in Richtung Universität"
+      },
+      "Z073M002": {
+        "en": "Stauffacherbrücke bei Selnaustrasse in Richtung Stauffacher"
+      },
+      "Z041M001": {
+        "en": "Gessnerallee 10m ab Knoten in Richtung Selnau"
+      },
+      "Z063M002": {
+        "en": "Albisriederstrasse ab Hubertus in Richtung Albisriederplatz"
+      },
+      "Z036M002": {
+        "en": "Schweighofstrasse Hägelerweg in Richtung Albisgütli"
+      },
+      "Z059M001": {
+        "en": "Neumühlequai 40 in Richtung Milchbucktunnel"
+      },
+      "Z008M002": {
+        "en": "Limmattalstrasse 410 in Richtung einwärts"
+      },
+      "Z068M001": {
+        "en": "Schimmelstrasse 10 in Richtung Manessestrasse"
+      },
+      "Z053M001": {
+        "en": "Birchstrasse vor Kreisel in Richtung Autobahn"
+      },
+      "Z035M001": {
+        "en": "Gutstrasse 116 in Richtung Hubertus"
+      },
+      "Z078M002": {
+        "en": "Birmensdorferstrasse 343 in Richtung einwärts"
+      },
+      "Z092M002": {
+        "en": "Am Wasser 79 in Richtung einwärts"
+      },
+      "Z083M001": {
+        "en": "Auffahrtsrampe Hohlstrasse Ost vor Hardbrücke in Richtung Bucheggplatz"
+      },
+      "Z091M001": {
+        "en": "Dreikönigstrasse ab Genferstrasse in Richtung Talstrasse"
+      },
+      "Z005M001": {
+        "en": "Albisriederstrasse Lyrenweg in Richtung auswärts"
+      },
+      "Z081M001": {
+        "en": "Pfingstweidstrasse 16 in Richtung auswärts"
+      },
+      "Z015M002": {
+        "en": "Neue Winterthurerstrasse Auf Rampe 50m vor Ueberlandstrasse in Richtung einwärts"
+      },
+      "Z038M001": {
+        "en": "Rosengartenstrasse 23 in Richtung Bucheggplatz"
+      },
+      "Z071M001": {
+        "en": "Badenerstrasse 298 in Richtung Albisriederplatz"
+      },
+      "Z068M002": {
+        "en": "Schimmelstrasse 10 in Richtung Bahnhof Wiedikon"
+      },
+      "Z087M002": {
+        "en": "Wehntalerstrasse 153 in Richtung einwärts"
+      },
+      "Z070M001": {
+        "en": "Hohlstrasse 167 in Richtung Hardplatz"
+      },
+      "Z097M001": {
+        "en": "Hofwiesenstrasse vor Brunnenhofweg in Richtung Oerlikon"
+      },
+      "Z017M002": {
+        "en": "Dübendorfstrasse 394 in Richtung einwärts"
+      },
+      "Z022M001": {
+        "en": "Allmendstrasse West Brunau in Richtung auswärts"
+      },
+      "Z034M002": {
+        "en": "Emil Klöti-Strasse 60m ab Knoten in Richtung Affoltern"
+      },
+      "Z083M003": {
+        "en": "Abfahrtsrampe Hohlstrasse West ab Hardbrücke in Richtung Hohlstrasse"
+      },
+      "Z092M001": {
+        "en": "Am Wasser 79 in Richtung auswärts"
+      },
+      "Z066M001": {
+        "en": "Stauffacherstrasse 151 in Richtung Helvetiaplatz"
+      },
+      "Z073M001": {
+        "en": "Stauffacherbrücke beim Stauffacherquai in Richtung See"
+      },
+      "Z034M001": {
+        "en": "Emil Klöti-Strasse 40m vor Knoten in Richtung Bucheggplatz"
+      },
+      "Z069M001": {
+        "en": "Seebahnstrasse 251 in Richtung Hohlstrasse"
+      },
+      "Z058M002": {
+        "en": "Stampfenbachstrasse 56 in Richtung Hauptbahnhof"
+      },
+      "Z067M001": {
+        "en": "Manessestrasse 4 in Richtung A3 und Schimmelstrasse"
+      },
+      "Z019M001": {
+        "en": "Witikonerstrasse 464 in Richtung auswärts"
+      },
+      "Z064M003": {
+        "en": "Gutstrasse 230 in Richtung Hubertus"
+      },
+      "Z060M005": {
+        "en": "Hermetschloobrücke vor Bernerstrasse Süd in Richtung Bernerstrasse"
+      },
+      "Z085M003": {
+        "en": "Alfred-Escher-Strasse Tunnelportal in Richtung Sihlhölzli"
+      },
+      "Z003M001": {
+        "en": "Soodstrasse Leimbachstrasse in Richtung auswärts"
+      },
+      "Z042M002": {
+        "en": "Limmatquai vor Rudolf-Brun-Brücke in Richtung Rudolf-Brun-Brücke"
+      },
+      "Z047M002": {
+        "en": "Hottingerstrasse 52 in Richtung Heimplatz"
+      },
+      "Z093M002": {
+        "en": "Hardturmstrasse 253 in Richtung einwärts"
+      },
+      "Z018M002": {
+        "en": "Tobelhof- und Dreiwiesenstrasse beim Knoten in Richtung einwärts"
+      },
+      "Z056M004": {
+        "en": "Zollikerstrasse 85 in Richtung einwärts"
+      },
+      "Z051M002": {
+        "en": "Seebacherstrasse vor Binzmühlestrasse in Richtung Affoltern"
+      },
+      "Z021M001": {
+        "en": "Bellerivestrasse Einfahrt Bahnhof Tiefenbrunnen in Richtung auswärts"
+      },
+      "Z043M001": {
+        "en": "Seilergraben Predigerplatz in Richtung Heimplatz"
+      },
+      "Z008M001": {
+        "en": "Limmattalstrasse 400 in Richtung auswärts"
+      },
+      "Z048M001": {
+        "en": "Rämistrasse ab Stadelhoferstrasse in Richtung Heimplatz"
+      }
+    }
+  },
+  "details": {
+    "en": null
+  },
+  "utc.updated": "2020-04-08 18:03:59"
+}

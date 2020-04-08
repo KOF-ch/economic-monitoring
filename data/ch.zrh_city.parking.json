@@ -1,0 +1,203 @@
+{
+  "title": {
+    "de": "Besetzte Parkplätze in Zürich"
+  },
+  "source.name": {
+    "de": "Stadt Zürich"
+  },
+  "source_url": "https://parkendd.de/",
+  "units": {
+    "variable": "%"
+  },
+  "aggregate": {
+    "all": "mean"
+  },
+  "dim.order": ["geo", "variable"],
+  "hierarchy": {
+    "lot": {
+      "total": {
+        "amcentral": null,
+        "accu": null,
+        "albisriederplatz": null,
+        "bleicherweg": null,
+        "centereleven": null,
+        "cityparking": null,
+        "cityport": null,
+        "crowneplaza": null,
+        "dorflinde": null,
+        "feldegg": null,
+        "globus": null,
+        "hardauii": null,
+        "hauptbahnhof": null,
+        "helvetiaplatz": null,
+        "hohepromenade": null,
+        "jelmoli": null,
+        "jungholz": null,
+        "maxbillplatz": null,
+        "messeag": null,
+        "nordhaus": null,
+        "octavo": null,
+        "opera": null,
+        "pwest": null,
+        "parkhyatt": null,
+        "parkside": null,
+        "pfingstweid": null,
+        "stampfenbach": null,
+        "talgarten": null,
+        "usznord": null,
+        "uniirchel": null,
+        "urania": null,
+        "utoquai": null,
+        "zueri11shopping": null,
+        "horn": null,
+        "eisfeld": null,
+        "theater11": null,
+        "uszsued": null,
+        "puls5": null
+      }
+    },
+    "variable": {
+      "daily_mean": null,
+      "utilization": null
+    }
+  },
+  "labels": {
+    "dimnames": {
+      "lot": {
+        "de": "Parkanlage"
+      },
+      "variable": {
+        "de": "Variable"
+      }
+    },
+    "lot": {
+      "total": {
+        "de": "Total"
+      },
+      "amcentral": {
+        "de": " Parkgarage am Central"
+      },
+      "accu": {
+        "de": "Parkhaus Accu"
+      },
+      "albisriederplatz": {
+        "de": "Parkhaus Albisriederplatz"
+      },
+      "bleicherweg": {
+        "de": "Parkhaus Bleicherweg"
+      },
+      "centereleven": {
+        "de": "Parkhaus Center Eleven"
+      },
+      "cityparking": {
+        "de": "Parkhaus City Parking"
+      },
+      "cityport": {
+        "de": "Parkhaus Cityport"
+      },
+      "crowneplaza": {
+        "de": "Parkhaus Crowne Plaza"
+      },
+      "dorflinde": {
+        "de": "Parkhaus Dorflinde"
+      },
+      "feldegg": {
+        "de": "Parkhaus Feldegg"
+      },
+      "globus": {
+        "de": "Parkhaus Globus"
+      },
+      "hardauii": {
+        "de": "Parkhaus Hardau II"
+      },
+      "hauptbahnhof": {
+        "de": "Parkhaus Hauptbahnhof"
+      },
+      "helvetiaplatz": {
+        "de": "Parkhaus Helvetiaplatz"
+      },
+      "hohepromenade": {
+        "de": "Parkhaus Hohe Promenade"
+      },
+      "jelmoli": {
+        "de": "Parkhaus Jelmoli"
+      },
+      "jungholz": {
+        "de": "Parkhaus Jungholz"
+      },
+      "maxbillplatz": {
+        "de": "Parkhaus Max-Bill-Platz"
+      },
+      "messeag": {
+        "de": "Parkhaus Messe Zürich AG"
+      },
+      "nordhaus": {
+        "de": "Parkhaus Nordhaus"
+      },
+      "octavo": {
+        "de": "Parkhaus Octavo"
+      },
+      "opera": {
+        "de": "Parkhaus Opéra"
+      },
+      "pwest": {
+        "de": "Parkhaus P West"
+      },
+      "parkhyatt": {
+        "de": "Parkhaus Park Hyatt"
+      },
+      "parkside": {
+        "de": "Parkhaus Parkside"
+      },
+      "pfingstweid": {
+        "de": "Parkhaus Pfingstweid"
+      },
+      "stampfenbach": {
+        "de": "Parkhaus Stampfenbach"
+      },
+      "talgarten": {
+        "de": "Parkhaus Talgarten"
+      },
+      "usznord": {
+        "de": "Parkhaus USZ Nord"
+      },
+      "uniirchel": {
+        "de": "Parkhaus Uni Irchel"
+      },
+      "urania": {
+        "de": "Parkhaus Urania"
+      },
+      "utoquai": {
+        "de": "Parkhaus Utoquai"
+      },
+      "zueri11shopping": {
+        "de": "Parkhaus Züri 11 Shopping"
+      },
+      "horn": {
+        "de": "Parkhaus Zürichhorn"
+      },
+      "eisfeld": {
+        "de": "Parkplatz Eisfeld"
+      },
+      "theater11": {
+        "de": "Parkplatz Theater 11"
+      },
+      "uszsued": {
+        "de": "Parkplatz USZ Süd"
+      },
+      "puls5": {
+        "de": "Puls 5 Parkgarage"
+      }
+    },
+    "variable": {
+      "daily_mean": {
+        "de": "Tagesmittel"
+      },
+      "utilization": {
+        "de": "Auslastung"
+      }
+    }
+  },
+  "details": null,
+  "utc.updated": "2020-04-08 18:03:58"
+}
