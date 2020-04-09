@@ -8,7 +8,7 @@ This repository disseminates **high frequency** economic datasets to monitor the
 
 ## Project Structure 
 
-This repository acts as the backend for the Vue.js dashboard application. 
+This repository acts as the backend for the [Vue.js dashboard application](https://github.com/KOF-ch/hfd-dashboard). 
 Data are available 2 formats as described below.
 
 ### data/
