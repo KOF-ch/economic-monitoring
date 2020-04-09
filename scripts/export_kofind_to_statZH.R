@@ -11,7 +11,7 @@ kof_ts <- get_time_series(c(
   "kofbarometer",
   "ch.kof.inu.ng08.fx.q_ql_ass_bs.balance",
   "ch.kof.inu.ng08.fx.q_ql_exp_chg_order_in_n3m.balance.d11",
-  "ch.seco.jobroom.candidates.total.total"
+  "ch.seco.jobroom.candidates.tot.tot"
 ))
 
 # data with structure specification ------------------------------------------
@@ -72,11 +72,11 @@ exp_chg_order_in_manufactur <- data.frame(
 
 # Job seekers according to www.job-room.ch
 jobroom <- data.frame(
-  date = as.POSIXct(paste(as.Date(time(kof_ts$ch.seco.jobroom.candidates.total.total)),
+  date = as.POSIXct(paste(as.Date(time(kof_ts$ch.seco.jobroom.candidates.tot.tot)),
                           "00:00:00",
                           sep = " "
   )),
-  value = coredata(kof_ts$ch.seco.jobroom.candidates.total.total),
+  value = coredata(kof_ts$ch.seco.jobroom.candidates.tot.tot),
   topic = "Wirtschaft",
   variable_short = "arbeitsuchende_jobroom",
   variable_long = "Arbeitsuchende gemäss Jobroom.ch",
@@ -100,3 +100,4 @@ kof_ind<-rbind(kofbarometer[!is.na(kofbarometer$value),],
 write.table(kof_ind, 
             file.path("data-statistikZH-monitoring","kof_indicators.csv"), 
             sep=",", fileEncoding="UTF-8", row.names = F)
+
