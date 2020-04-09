@@ -1,5 +1,8 @@
 # economic-monitoring
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/79b229f6-c4b1-4d60-8392-7f9decb56f87/deploy-status)](https://app.netlify.com/sites/kofdata/deploys)
+
+
 This repository disseminates **high frequency** economic datasets to monitor the Swiss economy.
 **Data** in this respository are published in **machine readable** fashion in order to foster effective, frustration free data exchange and processing. The [KOF High Frequency Economic Monitoring dashboard](https://kofdata.netlify.com/#/) provides an regularly updated overview of which datasets are available here. 
 
