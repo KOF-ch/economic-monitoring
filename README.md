@@ -3,6 +3,7 @@
 This repository disseminates **high frequency** economic datasets to monitor the Swiss economy.
 **Data** in this respository are published in **machine readable** fashion in order to foster effective, frustration free data exchange and processing. The [KOF High Frequency Economic Monitoring dashboard](https://kofdata.netlify.com/#/) provides an regularly updated overview of which datasets are available here. 
 
+![HFD Dashboard](dashboard.png)
 
 
 ## Project Structure 
