@@ -1,10 +1,10 @@
 file,time,public,set_id,subset
-ch.zrh_airport.arrivals.csv,2020-04-09 08:33:54,TRUE,ch.zrh_airport,ch.zrh_airport.arrivals
-ch.zrh_city.parking.csv,2020-04-09 22:02:41,TRUE,ch.zrh_city.parking,ch.zrh_city.parking
+ch.zrh_airport.arrivals.csv,2020-04-14 10:01:24,TRUE,ch.zrh_airport,ch.zrh_airport.arrivals
+ch.zrh_city.parking.csv,2020-04-14 10:02:36,TRUE,ch.zrh_city.parking,ch.zrh_city.parking
 ch.zrh_city.traffic.csv,2020-04-03 09:27:31,TRUE,ch.zrh_city.traffic,ch.zrh_city.traffic
-ch.seco.jobroom.candidates.csv,2020-04-09 08:33:34,TRUE,ch.seco.jobroom,ch.seco.jobroom.candidates
-ch.zrh_airport.departures.csv,2020-04-09 08:33:54,TRUE,ch.zrh_airport,ch.zrh_airport.departures
-ch.zueriluft.csv,2020-04-09 09:10:24,TRUE,ch.zueriluft,ch.zueriluft
-ch.seco.jobroom.vacancies.csv,2020-04-09 22:01:23,TRUE,ch.seco.jobroom,ch.seco.jobroom.vacancies
-ch.intervista.trackingpanel.csv,2020-04-09 22:00:39,TRUE,ch.intervista.trackingpanel,ch.intervista.trackingpanel
-ch.six.csv,2020-04-09 22:01:24,TRUE,ch.six,ch.six
+ch.seco.jobroom.candidates.csv,2020-04-14 10:01:06,TRUE,ch.seco.jobroom,ch.seco.jobroom.candidates
+ch.zrh_airport.departures.csv,2020-04-14 10:01:24,TRUE,ch.zrh_airport,ch.zrh_airport.departures
+ch.zueriluft.csv,2020-04-14 10:02:38,TRUE,ch.zueriluft,ch.zueriluft
+ch.seco.jobroom.vacancies.csv,2020-04-14 10:01:22,TRUE,ch.seco.jobroom,ch.seco.jobroom.vacancies
+ch.intervista.trackingpanel.csv,2020-04-13 22:00:31,TRUE,ch.intervista.trackingpanel,ch.intervista.trackingpanel
+ch.six.csv,2020-04-14 10:01:22,TRUE,ch.six,ch.six
