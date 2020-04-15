@@ -1,6 +1,6 @@
 {
   "title": {
-    "de": "Handelsregistereinträge gemäss Handelsamtsblatt"
+    "de": "HandelsregistereintrÃ¤ge gemÃ¤ss Handelsamtsblatt"
   },
   "source.name": {
     "de": "Schweizerisches Handelsamtsblatt SHAB"
@@ -45,19 +45,19 @@
         "de": "Schuldbetreibungen"
       },
       "sb01": {
-        "de": "Betreibungsamtliche Grundstücksteigerung"
+        "de": "Betreibungsamtliche GrundstÃ¼cksteigerung"
       },
       "sb02": {
         "de": "Zahlungsbefehl"
       },
       "sb03": {
-        "de": "Pfändungsanzeige/-urkunde"
+        "de": "PfÃ¤ndungsanzeige/-urkunde"
       },
       "kk": {
         "de": "Konkurse"
       },
       "kk01": {
-        "de": "Vorläufige Konkursanzeige"
+        "de": "VorlÃ¤ufige Konkursanzeige"
       },
       "kk02": {
         "de": "Konkurspublikation/Schuldenruf"
@@ -72,10 +72,10 @@
         "de": "Mutation"
       },
       "hr03": {
-        "de": "Löschung"
+        "de": "LÃ¶schung"
       }
     }
   },
   "details": null,
-  "utc.updated": "2020-04-14 15:26:35"
+  "utc.updated": "2020-04-15 11:51:05"
 }

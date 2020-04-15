@@ -50,6 +50,7 @@ ch.seco.jobroom.candidates.immediate.vd,ch.seco.jobroom
 ch.seco.jobroom.candidates.immediate.vs,ch.seco.jobroom
 ch.seco.jobroom.candidates.immediate.zg,ch.seco.jobroom
 ch.seco.jobroom.candidates.immediate.zh,ch.seco.jobroom
+ch.seco.jobroom.candidates_rate,ch.seco.jobroom
 ch.seco.jobroom.candidates.tot.ag,ch.seco.jobroom
 ch.seco.jobroom.candidates.tot.ai,ch.seco.jobroom
 ch.seco.jobroom.candidates.tot.ar,ch.seco.jobroom
@@ -77,6 +78,8 @@ ch.seco.jobroom.candidates.tot.vd,ch.seco.jobroom
 ch.seco.jobroom.candidates.tot.vs,ch.seco.jobroom
 ch.seco.jobroom.candidates.tot.zg,ch.seco.jobroom
 ch.seco.jobroom.candidates.tot.zh,ch.seco.jobroom
+ch.seco.jobroom.predicted_unemp,ch.seco.jobroom
+ch.seco.jobroom.predicted_unemprate,ch.seco.jobroom
 ch.seco.jobroom.vacancies.ag,ch.seco.jobroom
 ch.seco.jobroom.vacancies.ai,ch.seco.jobroom
 ch.seco.jobroom.vacancies.ar,ch.seco.jobroom
