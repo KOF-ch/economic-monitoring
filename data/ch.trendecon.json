@@ -1,0 +1,67 @@
+{
+  "title": {
+    "de": "Daily economic indicators based on Google searches in Switzerland"
+  },
+  "source.name": {
+    "en": "trendEcon"
+  },
+  "source_url": "https://www.trendecon.org/",
+  "units": {
+    "all": "index"
+  },
+  "aggregate": {
+    "all": ""
+  },
+  "dim.order": "id",
+  "hierarchy": {
+    "id": {
+      "seas_comp": null,
+      "seas_adj": null,
+      "orig": null,
+      "clothing_sa": null,
+      "garden_sa": null,
+      "luxury_sa": null,
+      "mobility_sa": null,
+      "social_sa": null,
+      "travel_sa": null
+    }
+  },
+  "labels": {
+    "dimnames": {
+      "id": {
+        "en": "Indicator"
+      }
+    },
+    "id": {
+      "seas_adj": {
+        "en": "Perceived Economic Situation (daily) seasonal adjusted"
+      },
+      "orig": {
+        "en": "Perceived Economic Situation (daily) original i.e. non seasonal adjusted"
+      },
+      "seas_comp": {
+        "en": "Difference between original and seasonal adjusted Perceived Economic Situation"
+      },
+      "clothing_sa": {
+        "en": "Clothing and Shoes"
+      },
+      "garden_sa": {
+        "en": "Gardening and Home Improvement"
+      },
+      "luxury_sa": {
+        "en": "Watches and Jewellery"
+      },
+      "mobility_sa": {
+        "en": "Mobility"
+      },
+      "social_sa": {
+        "en": "Cultural Events"
+      },
+      "travel_sa": {
+        "en": "Travel Abroad"
+      }
+    }
+  },
+  "details": null,
+  "utc.updated": "2020-04-16 07:51:39"
+}

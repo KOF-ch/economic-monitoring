@@ -125,6 +125,15 @@ ch.six.ch.six.debiteinsatz_ausland,ch.six
 ch.six.ch.six.stat_einkauf,ch.six
 ch.six.debiteinsatz_ausland,ch.six
 ch.six.stat_einkauf,ch.six
+ch.trendecon.clothing_sa,ch.trendecon
+ch.trendecon.garden_sa,ch.trendecon
+ch.trendecon.luxury_sa,ch.trendecon
+ch.trendecon.mobility_sa,ch.trendecon
+ch.trendecon.orig,ch.trendecon
+ch.trendecon.seas_adj,ch.trendecon
+ch.trendecon.seas_comp,ch.trendecon
+ch.trendecon.social_sa,ch.trendecon
+ch.trendecon.travel_sa,ch.trendecon
 ch.zrh_airport.arrival.total,ch.zrh_airport
 ch.zrh_airport.departure.total,ch.zrh_airport
 ch.zrh_city.parking.accu.daily_mean,ch.zrh_city.parking
