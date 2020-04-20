@@ -1,0 +1,40 @@
+{
+  "title": {
+    "en": "SIX Debit and Credit Card Use"
+  },
+  "source.name": {
+    "en": "SIX"
+  },
+  "source.url": "https://github.com/statistikZH/covid19monitoring_economy_SIX",
+  "dim.order": "variable",
+  "hierarchy": {
+    "variable": {
+      "stat_einkauf": null,
+      "bezug_bargeld": null,
+      "stat_einkauf.1": null
+    }
+  },
+  "labels": {
+    "dim.names": {
+      "variable": {
+        "en": "variable"
+      }
+    },
+    "debiteinsatz_ausland": {
+      "en": "Volume Debitcard use abroad",
+      "de": " Finanzvolumen Debitkarteneinsatz im Ausland"
+    },
+    "bezug_bargeld": {
+      "en": "Volume Cash Withdrawal Switzerland",
+      "de": " Finanzvolumen Bargeldbezug Debitkarten in der Schweiz"
+    },
+    "stat_einkauf": {
+      "en": "Volume debit card use in retatil (w/o online)",
+      "de": "Finanzvolumen Debitkarteneinsatz stationärer Einkauf in der Schweiz (kein Online-Handel)"
+    }
+  },
+  "details": {
+    "en": "Die Daten von SIX Payment Services umfassen bargeldlose Transaktionen und Bargeldbezüge im In- und Ausland, für welche von Schweizer Banken ausgehändigte Debitkarten der folgenden Marken verwendet wurden: Debit Mastercard, Maestro CH, V PAY oder Visa Debit."
+  },
+  "utc.updated": "2020-04-20 13:00:57"
+}
