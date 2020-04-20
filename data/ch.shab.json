@@ -1,0 +1,83 @@
+{
+  "title": {
+    "de": "Handelsregistereinträge gemäss Handelsamtsblatt"
+  },
+  "source.name": {
+    "de": "Schweizerisches Handelsamtsblatt SHAB"
+  },
+  "source_url": "https://www.shab.ch/#!/search/publications",
+  "units": {
+    "all": "count"
+  },
+  "aggregate": {
+    "all": "sum"
+  },
+  "dim.order": "rubric",
+  "hierarchy": {
+    "rubric": {
+      "sbkk": {
+        "sb": {
+          "sb01": null,
+          "sb02": null,
+          "ab03": null
+        },
+        "kk": {
+          "kk01": null,
+          "kk02": null
+        }
+      },
+      "hr": {
+        "hr01": null,
+        "hr02": null,
+        "hr03": null
+      }
+    }
+  },
+  "labels": {
+    "dimnames": {
+      "rubric": {
+        "de": "Rubrik"
+      }
+    },
+    "rubric": {
+      "sbkk": {
+        "de": "Meldungen zu Konkurs und Schuldbetreibung"
+      },
+      "sb": {
+        "de": "Schuldbetreibungen"
+      },
+      "sb01": {
+        "de": "Betreibungsamtliche Grundstücksteigerung"
+      },
+      "sb02": {
+        "de": "Zahlungsbefehl"
+      },
+      "sb03": {
+        "de": "Pfändungsanzeige/-urkunde"
+      },
+      "kk": {
+        "de": "Konkurse"
+      },
+      "kk01": {
+        "de": "Vorläufige Konkursanzeige"
+      },
+      "kk02": {
+        "de": "Konkurspublikation/Schuldenruf"
+      },
+      "hr": {
+        "de": "Handelsregistereintragungen"
+      },
+      "hr01": {
+        "de": "Neueintrag"
+      },
+      "hr02": {
+        "de": "Mutation"
+      },
+      "hr03": {
+        "de": "Löschung"
+      }
+    }
+  },
+  "details": null,
+  "utc.updated": "2020-04-20 10:15:29"
+}
