@@ -14,21 +14,23 @@
   },
   "dim.order": "rubric",
   "hierarchy": {
-    "sbkk": {
-      "sb": {
-        "sb01": null,
-        "sb02": null,
-        "ab03": null
+    "rubric": {
+      "sbkk": {
+        "sb": {
+          "sb01": null,
+          "sb02": null,
+          "ab03": null
+        },
+        "kk": {
+          "kk01": null,
+          "kk02": null
+        }
       },
-      "kk": {
-        "kk01": null,
-        "kk02": null
+      "hr": {
+        "hr01": null,
+        "hr02": null,
+        "hr03": null
       }
-    },
-    "hr": {
-      "hr01": null,
-      "hr02": null,
-      "hr03": null
     }
   },
   "labels": {
@@ -77,5 +79,5 @@
     }
   },
   "details": null,
-  "utc.updated": "2020-04-16 07:51:38"
+  "utc.updated": "2020-04-20 10:15:29"
 }

@@ -1,0 +1,104 @@
+{
+  "title": {
+    "de": "Energieübersicht Schweiz"
+  },
+  "source.name": {
+    "de": "Swissgrid"
+  },
+  "source_url": "https://www.swissgrid.ch/de/home/operation/grid-data.html",
+  "units": {
+    "all": "kWh"
+  },
+  "aggregate": {
+    "all": "sum"
+  },
+  "dim.order": ["direction", "geo"],
+  "hierarchy": {
+    "geo": {
+      "direction": {
+        "in": null,
+        "out": null,
+        "out_incl_losses": null
+      },
+      "geo": {
+        "ch": {
+          "ag": null,
+          "aiar": null,
+          "beju": null,
+          "blbs": null,
+          "bridging": null,
+          "gevd": null,
+          "gl": null,
+          "gr": null,
+          "lu": null,
+          "ne": null,
+          "ownw": null,
+          "sg": null,
+          "shzh": null,
+          "so": null,
+          "szzg": null,
+          "tg": null,
+          "ti": null,
+          "vs": null
+        },
+        "de": null,
+        "it": null,
+        "fr": null,
+        "at": null
+      }
+    }
+  },
+  "labels": {
+    "dimnames": {
+      "direction": {
+        "de": "Einspeisung/Verbrauch"
+      },
+      "geo": {
+        "de": "Produzent/Verbraucher"
+      }
+    },
+    "direction": {
+      "in": {
+        "de": "Einspeisung"
+      },
+      "out": {
+        "de": "Verbrauch"
+      },
+      "out_incl_losses": {
+        "de": "Verbrauch inklusive Verluste, Pumpenergie bei Pumpspeicherkraftwerken und Eigenbedarf von Kraftwerken"
+      }
+    },
+    "geo": {
+      "ch": {
+        "ag": {
+          "de": "Aargau"
+        },
+        "aiar": "Appenzell Inner-/Ausserrhoden",
+        "beju": "Bern und Jura",
+        "blbs": "Basel Stadt und Basel Landschaft",
+        "bridging": "Kantonsübergreifend",
+        "gevd": "Genf und Waadt",
+        "gl": "Glarus",
+        "gr": "Graubünden",
+        "lu": "Luzern",
+        "ne": "Neuenburg",
+        "ownw": "Ob-/Nidwalden",
+        "sg": "St. Gallen",
+        "shzh": "Schaffhausen und Zürich",
+        "so": "Solothurn",
+        "szzg": "Schwyz und Zug",
+        "tg": "Thurgau",
+        "ti": "Tessing",
+        "vs": "Wallis"
+      },
+      "de": "Deutschland",
+      "it": "Italien",
+      "fr": "Frankreich",
+      "at": "Österreich"
+    }
+  },
+  "details": {
+    "de": "Die Zahlen für Deutschland, Italien, Frankreich und Österreich sind als Importe/Exporte zu verstehen."
+  },
+  "utc.updated": "2020-04-20 10:15:46"
+}
