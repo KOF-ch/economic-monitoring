@@ -1,13 +1,14 @@
 file,time,public,set_id,subset
-ch.zrh_airport.arrivals.csv,2020-04-20 10:15:50,TRUE,ch.zrh_airport,ch.zrh_airport.arrivals
-ch.zrh_city.parking.csv,2020-04-20 10:57:46,TRUE,ch.zrh_city.parking,ch.zrh_city.parking
-ch.zrh_city.traffic.csv,2020-04-03 09:27:31,TRUE,ch.zrh_city.traffic,ch.zrh_city.traffic
-ch.seco.jobroom.candidates.csv,2020-04-20 09:44:54,TRUE,ch.seco.jobroom,ch.seco.jobroom.candidates
-ch.zrh_airport.departures.csv,2020-04-20 10:15:50,TRUE,ch.zrh_airport,ch.zrh_airport.departures
-ch.zueriluft.csv,2020-04-20 10:17:11,TRUE,ch.zueriluft,ch.zueriluft
-ch.seco.jobroom.vacancies.csv,2020-04-20 10:55:09,TRUE,ch.seco.jobroom,ch.seco.jobroom.vacancies
-ch.intervista.trackingpanel.csv,2020-04-17 22:00:32,TRUE,ch.intervista.trackingpanel,ch.intervista.trackingpanel
-ch.six.csv,2020-04-20 10:56:31,TRUE,ch.six,ch.six
-ch.shab.csv,2020-04-20 10:56:31,TRUE,ch.shab,ch.shab
-ch.trendecon.csv,2020-04-20 10:56:34,TRUE,ch.trendecon,ch.trendecon
-ch.swissgrid.csv,2020-04-20 10:56:32,TRUE,ch.swissgrid,ch.swissgrid
+ch.zrh_airport.arrivals.csv,2020-04-22 07:44:06,TRUE,ch.zrh_airport,ch.zrh_airport.arrivals
+ch.zrh_city.parking.csv,2020-04-22 11:22:38,TRUE,ch.zrh_city.parking,ch.zrh_city.parking
+ch.zrh_city.traffic.csv,2020-04-22 11:22:39,TRUE,ch.zrh_city.traffic,ch.zrh_city.traffic
+ch.seco.jobroom.candidates.csv,2020-04-22 07:41:53,TRUE,ch.seco.jobroom,ch.seco.jobroom.candidates
+ch.zrh_airport.departures.csv,2020-04-22 07:44:06,TRUE,ch.zrh_airport,ch.zrh_airport.departures
+ch.zueriluft.csv,2020-04-22 07:46:21,TRUE,ch.zueriluft,ch.zueriluft
+ch.seco.jobroom.vacancies.csv,2020-04-22 11:19:59,TRUE,ch.seco.jobroom,ch.seco.jobroom.vacancies
+ch.intervista.trackingpanel.csv,2020-04-21 22:00:27,TRUE,ch.intervista.trackingpanel,ch.intervista.trackingpanel
+ch.six.csv,2020-04-22 11:21:24,TRUE,ch.six,ch.six
+ch.shab.csv,2020-04-22 11:21:24,TRUE,ch.shab,ch.shab
+ch.trendecon.csv,2020-04-22 11:21:28,TRUE,ch.trendecon,ch.trendecon
+ch.swissgrid.csv,2020-04-22 11:21:26,TRUE,ch.swissgrid,ch.swissgrid
+int.covid19.oxford_policy_tracker.csv,2020-04-22 11:22:42,TRUE,int.covid19.oxford_policy_tracker,int.covid19.oxford_policy_tracker
