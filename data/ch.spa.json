@@ -1,0 +1,86 @@
+{
+  "title": {
+    "en": "SIX Debit and Credit Card Use"
+  },
+  "source.name": {
+    "en": "Swiss Payment Association"
+  },
+  "source.url": "https://github.com/statistikZH/covid19monitoring_economy_Kreditkarten",
+  "dim.order": "variable",
+  "hierarchy": {
+    "variable": {
+      "anz_kktrans_ch": null,
+      "betrag_kktrans_ch": null,
+      "anz_kkrans_ausl": null,
+      "betrag_kktrans_ausl": null,
+      "anz_kktrans_ch_praes": null,
+      "anz_kktrans_ch_praes_contactless": null,
+      "betrag_kktrans_ch_praes": null,
+      "betrag_kktrans_ch_praes_contactless": null,
+      "anz_kktrans_ch_distanz": null,
+      "betrag_kktrans_ch_distanz": null,
+      "anz_kktrans_ausl_distanz": null,
+      "betrag_kktrans_ausl_distanz": null
+    }
+  },
+  "labels": {
+    "dim.names": {
+      "variable": {
+        "en": "variable"
+      }
+    },
+    "anz_kktrans_ch": {
+      "en": "Number of credit card transactions (domestic)",
+      "de": "Anzahl Kreditkarten-Transaktionen im Inland"
+    },
+    "betrag_kktrans_ch": {
+      "en": "Volume of credit card transactions (domestic)",
+      "de": "Betrag Kreditkarten-Transaktionen im Inland"
+    },
+    "anz_kkrans_ausl": {
+      "en": "Number of credit card transactions (foreign)",
+      "de": "Anzahl Kreditkarten-Transaktionen im Ausland"
+    },
+    "betrag_kktrans_ausl": {
+      "en": "Volume of credit card transactions (foreign)",
+      "de": "Betrag Kreditkarten-Transaktionen im Ausland"
+    },
+    "anz_kktrans_ch_praes": {
+      "en": "Number of credit card transactions presence business (domestic)",
+      "de": "Anzahl Kreditkarten-Transaktionen Präsenzgeschäft im Inland insgesamt"
+    },
+    "anz_kktrans_ch_praes_contactless": {
+      "en": "Number of contact-less credit card transactions presence business (domestic)",
+      "de": "Anzahl kontaktlose Kreditkarten-Transaktionen Präsenzgeschäft im Inland"
+    },
+    "betrag_kktrans_ch_praes": {
+      "en": "Volume of credit card transactions presence business (domestic)",
+      "de": "Betrag Kreditkarten-Transaktionen Präsenzgeschäft im Inland insgesamt"
+    },
+    "betrag_kktrans_ch_praes_contactless": {
+      "en": "Volume of contact-less credit card transactions presence business (domestic)",
+      "de": "Betrag kontaktlose Kreditkarten-Transaktionen Präsenzgeschäft im Inland"
+    },
+    "anz_kktrans_ch_distanz": {
+      "en": "Number of credit card transactions distance business (domestic)",
+      "de": "Anzahl Kreditkarten-Transaktionen Distanzgeschäft im Inland"
+    },
+    "betrag_kktrans_ch_distanz": {
+      "en": "Volume of credit card transactions distance business (domestic)",
+      "de": "Betrag Kreditkarten-Transaktionen Distanzgeschäft im Inland"
+    },
+    "anz_kktrans_ausl_distanz": {
+      "en": "Number of credit card transasctions distance business (foreign)",
+      "de": "Anzahl Kreditkarten-Transaktionen Distanzgeschäft im Ausland"
+    },
+    "betrag_kktrans_ausl_distanz": {
+      "en": "Volume of credit card transactions distance business (foreign)",
+      "de": "Betrag Kreditkarten-Transaktionen Distanzgeschäft im Ausland"
+    },
+    "details": {
+      "en": "Detailed meta information only available in German.",
+      "de": "Die ausgewiesenen Zahlen beziehen sich auf Transaktionen mit inländischen Kreditkarten (ohne Bargeldbezüge). Die Daten stammen von den Mitgliedern der Swiss Payment Association/SPA (BonusCard.ch AG, Cembra Money Bank AG, Cornèr Bank AG, PostFinance AG, Swisscard AECS GmbH, UBS Switzerland AG, Viseca Card Services SA)."
+    },
+    "utc.updated": "2020-04-27 08:30:06"
+  }
+}
