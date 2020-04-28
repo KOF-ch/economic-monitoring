@@ -1,15 +1,15 @@
 file,time,public,set_id,subset
 ch.zrh_airport.arrivals.csv,2020-04-27 10:03:41,TRUE,ch.zrh_airport,ch.zrh_airport.arrivals
-ch.zrh_city.parking.csv,2020-04-27 10:44:27,TRUE,ch.zrh_city.parking,ch.zrh_city.parking
-ch.zrh_city.traffic.csv,2020-04-27 10:04:54,TRUE,ch.zrh_city.traffic,ch.zrh_city.traffic
+ch.zrh_city.parking.csv,2020-04-27 22:03:55,TRUE,ch.zrh_city.parking,ch.zrh_city.parking
+ch.zrh_city.traffic.csv,2020-04-27 22:03:56,TRUE,ch.zrh_city.traffic,ch.zrh_city.traffic
 ch.seco.jobroom.candidates.csv,2020-04-27 10:01:03,TRUE,ch.seco.jobroom,ch.seco.jobroom.candidates
 ch.zrh_airport.departures.csv,2020-04-27 10:03:41,TRUE,ch.zrh_airport,ch.zrh_airport.departures
 ch.zueriluft.csv,2020-04-27 10:04:54,TRUE,ch.zueriluft,ch.zueriluft
-ch.seco.jobroom.vacancies.csv,2020-04-27 10:41:51,TRUE,ch.seco.jobroom,ch.seco.jobroom.vacancies
+ch.seco.jobroom.vacancies.csv,2020-04-27 22:01:17,TRUE,ch.seco.jobroom,ch.seco.jobroom.vacancies
 ch.intervista.trackingpanel.csv,2020-04-27 10:00:33,TRUE,ch.intervista.trackingpanel,ch.intervista.trackingpanel
-ch.six.csv,2020-04-27 10:43:15,TRUE,ch.six,ch.six
-ch.shab.csv,2020-04-27 10:43:14,TRUE,ch.shab,ch.shab
-ch.trendecon.csv,2020-04-27 10:43:19,TRUE,ch.trendecon,ch.trendecon
-ch.swissgrid.csv,2020-04-27 10:43:17,TRUE,ch.swissgrid,ch.swissgrid
+ch.six.csv,2020-04-27 22:02:42,TRUE,ch.six,ch.six
+ch.shab.csv,2020-04-27 22:02:42,TRUE,ch.shab,ch.shab
+ch.trendecon.csv,2020-04-27 22:02:47,TRUE,ch.trendecon,ch.trendecon
+ch.swissgrid.csv,2020-04-27 22:02:45,TRUE,ch.swissgrid,ch.swissgrid
 int.covid19.oxford_policy_tracker.csv,2020-04-24 22:04:11,TRUE,int.covid19.oxford_policy_tracker,int.covid19.oxford_policy_tracker
-ch.spa.csv,2020-04-27 10:43:15,TRUE,ch.spa,ch.spa
+ch.spa.csv,2020-04-27 22:02:43,TRUE,ch.spa,ch.spa
