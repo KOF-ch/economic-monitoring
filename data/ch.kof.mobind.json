@@ -1,0 +1,29 @@
+{
+  "title": {
+    "en": "KOF Mobility Indicator"
+  },
+  "source.name": {
+    "en": "KOF Swiss Economic Institute"
+  },
+  "source.url": "https://kof.ethz.ch/prognosen-indikatoren/indikatoren.html",
+  "dim.order": "variable",
+  "hierarchy": {
+    "variable": {
+      "mobind": null
+    }
+  },
+  "labels": {
+    "dim.names": {
+      "variable": {
+        "en": "variable"
+      }
+    },
+    "mobind": {
+      "en": "PCA based mobility index based on data from statistikZH"
+    }
+  },
+  "details": {
+    "en": "PCA based mobility index based on data from statistikZH,\n      Gesellschaftsmonitoring COVID-19"
+  },
+  "utc.updated": "2020-05-06 08:22:21"
+}
