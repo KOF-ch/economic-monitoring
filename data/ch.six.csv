@@ -917,3 +917,9 @@ time,variable,value
 2020-06-01,bezug_bargeld,57600000
 2020-06-01,debiteinsatz_ausland,7500000
 2020-06-01,stat_einkauf,68800000
+2020-06-02,anz_bezug_bargeld,3.37e+08
+2020-06-02,anz_debiteinsatz_ausland,47900000
+2020-06-02,anz_stat_einkauf,2715100000
+2020-06-02,bezug_bargeld,161800000
+2020-06-02,debiteinsatz_ausland,6e+06
+2020-06-02,stat_einkauf,134600000
