@@ -1613,3 +1613,16 @@ time,direction,rnwy,time_frame,value
 2020-06-03,arrival,34,0622,2
 2020-06-03,arrival,34,2200,0
 2020-06-03,arrival,all,total,47
+2020-06-04,arrival,14,0006,1
+2020-06-04,arrival,14,0622,47
+2020-06-04,arrival,14,2200,0
+2020-06-04,arrival,16,0006,0
+2020-06-04,arrival,16,0622,1
+2020-06-04,arrival,16,2200,0
+2020-06-04,arrival,28,0006,0
+2020-06-04,arrival,28,0622,4
+2020-06-04,arrival,28,2200,1
+2020-06-04,arrival,34,0006,0
+2020-06-04,arrival,34,0622,6
+2020-06-04,arrival,34,2200,0
+2020-06-04,arrival,all,total,60
