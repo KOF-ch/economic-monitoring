@@ -1,0 +1,58 @@
+{
+  "title": {
+    "en": "KOF Mobility Indicator"
+  },
+  "source.name": {
+    "en": "KOF Swiss Economic Institute"
+  },
+  "source.url": "https://kof.ethz.ch/prognosen-indikatoren/indikatoren.html",
+  "dim.order": ["variable", "trans"],
+  "hierarchy": {
+    "variable": {
+      "activ.tot": null,
+      "activ.dom": null,
+      "activ.int": null,
+      "mobil": null,
+      "sales": null
+    },
+    "trans": {
+      "meanvar": null,
+      "minmax": null
+    }
+  },
+  "labels": {
+    "dim.names": {
+      "variable": {
+        "en": "variable"
+      },
+      "trans": {
+        "en": "transformation"
+      }
+    },
+    "activ.tot": {
+      "en": "KOF Daily Compound Indicator on Activity of the Swiss Population"
+    },
+    "activ.dom": {
+      "en": "KOF Daily Compound Indicator on Domestic Activity In Switzerland"
+    },
+    "activ.int": {
+      "en": "KOF Daily Compound Indicator on International Travel Activity of Swiss Residents"
+    },
+    "mobil": [
+      "KOF Daily Compound Indicator on the Physical Mobility of the Swiss Population"
+    ],
+    "sales": {
+      "en": "KOF Daily Compound Indicator on the Sales and Buying Activity of the Swiss Population"
+    },
+    "minmax": {
+      "en": "Min-Max Standardization"
+    },
+    "meanvar": {
+      "en": "Mean-Variance Standardization"
+    }
+  },
+  "details": {
+    "en": "PCA based indices/index based on various high-frequency series assembled by the Statistical Office of Zurich, Gesellschaftsmonitoring COVID-19. See Eckert and Mikosch (Mobility and Sales Activity During the Corona Crisis: Daily Indicators for Switzerland, 2020) for details."
+  },
+  "utc.updated": "2020-06-26 14:02:28"
+}
