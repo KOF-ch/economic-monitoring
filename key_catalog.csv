@@ -35,7 +35,16 @@ ch.intervista.trackingpanel.ch.tages_distanz_10-20km,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.ch.tages_distanz_weniger2km,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.ch.tages_distanz_10-20km_alter_1529,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.ch.tages_distanz_weniger2km_alter_1529,ch.intervista.trackingpanel
-ch.kof.mobind,ch.kof.mobind
+ch.kof.mobind.activ.tot.meanvar,ch.kof.mobind
+ch.kof.mobind.activ.dom.meanvar,ch.kof.mobind
+ch.kof.mobind.activ.int.meanvar,ch.kof.mobind
+ch.kof.mobind.mobil.meanvar,ch.kof.mobind
+ch.kof.mobind.sales.meanvar,ch.kof.mobind
+ch.kof.mobind.activ.tot.maxmin,ch.kof.mobind
+ch.kof.mobind.activ.dom.maxmin,ch.kof.mobind
+ch.kof.mobind.activ.int.maxmin,ch.kof.mobind
+ch.kof.mobind.mobil.maxmin,ch.kof.mobind
+ch.kof.mobind.sales.maxmin,ch.kof.mobind    
 ch.seco.easygov.loans.count,ch.seco.easygov.loans
 ch.seco.easygov.loans.cum_count,ch.seco.easygov.loans
 ch.seco.jobroom.vacancies.vs,ch.seco.jobroom
