@@ -1,0 +1,796 @@
+{
+  "title": {
+    "en": "Oxford COVID-19 Government Response Tracker (OxCGRT)"
+  },
+  "source.name": {
+    "en": "Oxford - Blavatnik School of Government"
+  },
+  "source_url": "https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker",
+  "units": {
+    "indicator": {
+      "s1_school_closing": {
+        "en": "category"
+      },
+      "s1_isgeneral": {
+        "en": "binary"
+      },
+      "s2_workplace_closing": {
+        "en": "category"
+      },
+      "s2_isgeneral": {
+        "en": "binary"
+      },
+      "s3_cancel_public_events": {
+        "en": "category"
+      },
+      "s3_isgeneral": {
+        "en": "binary"
+      },
+      "s4_close_public_transport": {
+        "en": "category"
+      },
+      "s4_isgeneral": {
+        "en": "binary"
+      },
+      "s5_public_information_campaigns": {
+        "en": "binary"
+      },
+      "s5_isgeneral": {
+        "en": "binary"
+      },
+      "s6_restrictions_on_internal_movement": {
+        "en": "category"
+      },
+      "s6_isgeneral": {
+        "en": "binary"
+      },
+      "s7_international_travel_controls": {
+        "en": "category"
+      },
+      "s8_fiscal_measures": {
+        "en": "binary"
+      },
+      "s9_monetary_measures": {
+        "en": "percent"
+      },
+      "s10_emergency_investment_in_health_care": {
+        "en": "usd"
+      },
+      "s11_investment_in_vaccines": {
+        "en": "usd"
+      },
+      "s12_testing_framework": {
+        "en": "category"
+      },
+      "s13_contact_tracing": {
+        "en": "category"
+      },
+      "confirmedcases": {
+        "en": "number"
+      },
+      "confirmeddeaths": {
+        "en": "number"
+      },
+      "stringencyindex": {
+        "en": "index"
+      },
+      "stringencyindexfordisplay": {
+        "en": "index"
+      }
+    }
+  },
+  "aggregate": {
+    "all": ""
+  },
+  "dim.order": ["indicator", "geo"],
+  "hierarchy": {
+    "indicator": {
+      "s1_school_closing": null,
+      "s1_isgeneral": null,
+      "s2_workplace_closing": null,
+      "s2_isgeneral": null,
+      "s3_cancel_public_events": null,
+      "s3_isgeneral": null,
+      "s4_close_public_transport": null,
+      "s4_isgeneral": null,
+      "s5_public_information_campaigns": null,
+      "s5_isgeneral": null,
+      "s6_restrictions_on_internal_movement": null,
+      "s6_isgeneral": null,
+      "s7_international_travel_controls": null,
+      "s8_fiscal_measures": null,
+      "s9_monetary_measures": null,
+      "s10_emergency_investment_in_health_care": null,
+      "s11_investment_in_vaccines": null,
+      "s12_testing_framework": null,
+      "s13_contact_tracing": null,
+      "confirmedcases": null,
+      "confirmeddeaths": null,
+      "stringencyindex": null,
+      "stringencyindexfordisplay": null
+    },
+    "geo": {
+      "abw": null,
+      "afg": null,
+      "ago": null,
+      "alb": null,
+      "and": null,
+      "are": null,
+      "arg": null,
+      "aus": null,
+      "aut": null,
+      "aze": null,
+      "bdi": null,
+      "bel": null,
+      "bfa": null,
+      "bgd": null,
+      "bgr": null,
+      "bhr": null,
+      "bih": null,
+      "blz": null,
+      "bmu": null,
+      "bol": null,
+      "bra": null,
+      "brb": null,
+      "brn": null,
+      "bwa": null,
+      "can": null,
+      "che": null,
+      "chl": null,
+      "chn": null,
+      "cmr": null,
+      "cod": null,
+      "col": null,
+      "cpv": null,
+      "cri": null,
+      "cub": null,
+      "cyp": null,
+      "cze": null,
+      "deu": null,
+      "dji": null,
+      "dnk": null,
+      "dom": null,
+      "dza": null,
+      "ecu": null,
+      "egy": null,
+      "esp": null,
+      "est": null,
+      "fin": null,
+      "fra": null,
+      "gab": null,
+      "gbr": null,
+      "gha": null,
+      "gmb": null,
+      "grc": null,
+      "grl": null,
+      "gtm": null,
+      "gum": null,
+      "guy": null,
+      "hkg": null,
+      "hnd": null,
+      "hrv": null,
+      "hun": null,
+      "idn": null,
+      "ind": null,
+      "irl": null,
+      "irn": null,
+      "irq": null,
+      "isl": null,
+      "isr": null,
+      "ita": null,
+      "jam": null,
+      "jor": null,
+      "jpn": null,
+      "kaz": null,
+      "ken": null,
+      "kgz": null,
+      "kor": null,
+      "kwt": null,
+      "lao": null,
+      "lbn": null,
+      "lby": null,
+      "lka": null,
+      "lso": null,
+      "lux": null,
+      "mac": null,
+      "mar": null,
+      "mda": null,
+      "mdg": null,
+      "mex": null,
+      "mli": null,
+      "mmr": null,
+      "mng": null,
+      "moz": null,
+      "mrt": null,
+      "mus": null,
+      "mwi": null,
+      "mys": null,
+      "nam": null,
+      "ner": null,
+      "nga": null,
+      "nic": null,
+      "nld": null,
+      "nor": null,
+      "nzl": null,
+      "omn": null,
+      "pak": null,
+      "pan": null,
+      "per": null,
+      "phl": null,
+      "png": null,
+      "pol": null,
+      "pri": null,
+      "prt": null,
+      "pry": null,
+      "pse": null,
+      "qat": null,
+      "rou": null,
+      "rus": null,
+      "rwa": null,
+      "sau": null,
+      "sdn": null,
+      "sgp": null,
+      "sle": null,
+      "slv": null,
+      "smr": null,
+      "srb": null,
+      "ssd": null,
+      "svk": null,
+      "svn": null,
+      "swe": null,
+      "swz": null,
+      "syc": null,
+      "syr": null,
+      "tcd": null,
+      "tha": null,
+      "tto": null,
+      "tun": null,
+      "tur": null,
+      "tza": null,
+      "uga": null,
+      "ukr": null,
+      "ury": null,
+      "usa": null,
+      "uzb": null,
+      "ven": null,
+      "vnm": null,
+      "zaf": null,
+      "zmb": null,
+      "zwe": null,
+      "twn": null,
+      "rks": null
+    }
+  },
+  "labels": {
+    "dimnames": {
+      "indicator": {
+        "en": "Indicators of government response to the COVID-19 outbreak"
+      },
+      "geo": {
+        "en": "Country"
+      }
+    },
+    "indicator": {
+      "s1_school_closing": {
+        "en": "ordinal scale - Record closings of schools and universities"
+      },
+      "s1_isgeneral": {
+        "en": "geographic scope - closings of schools and universities"
+      },
+      "s2_workplace_closing": {
+        "en": "ordinal scale - Record closings of workplaces"
+      },
+      "s2_isgeneral": {
+        "en": "geographic scope - closings of workplaces"
+      },
+      "s3_cancel_public_events": {
+        "en": "ordinal scale - Record cancelling public events"
+      },
+      "s3_isgeneral": {
+        "en": "geographic scope - cancelling public events"
+      },
+      "s4_close_public_transport": {
+        "en": "ordinal scale - Record closing of public transport"
+      },
+      "s4_isgeneral": {
+        "en": "geographic scope - closing of public transport"
+      },
+      "s5_public_information_campaigns": {
+        "en": "binary - Record presence of public info campaigns"
+      },
+      "s5_isgeneral": {
+        "en": "geographic scope - presence of public info campaigns"
+      },
+      "s6_restrictions_on_internal_movement": {
+        "en": "ordinal scale - Record restrictions on internal movement"
+      },
+      "s6_isgeneral": {
+        "en": "geographic scope - restrictions on internal movement"
+      },
+      "s7_international_travel_controls": {
+        "en": "ordinal scale - Record restrictions on international travel"
+      },
+      "s8_fiscal_measures": {
+        "en": "USD value of fiscal stimuli, including spending or tax cuts - Economic stimulus policies adopted"
+      },
+      "s9_monetary_measures": {
+        "en": "% value of interest rate - Monetary policy interventions"
+      },
+      "s10_emergency_investment_in_health_care": {
+        "en": "USD Value of new short-term spending on health - Short-term spending on, e.g, hospitals, masks, etc"
+      },
+      "s11_investment_in_vaccines": {
+        "en": "USD Value of investment - Announced public spending on vaccine development"
+      },
+      "s12_testing_framework": {
+        "en": "ordinal scale - Who can get tested"
+      },
+      "s13_contact_tracing": {
+        "en": "ordinal scale - Are governments doing contact tracing"
+      },
+      "confirmedcases": {
+        "en": "confirmed cases from the European Centre for Disease Prevention and Control (ECDC) for most countries, and from the JHU CSSE data repository"
+      },
+      "confirmeddeaths": {
+        "en": "confirmed deaths from the European Centre for Disease Prevention and Control (ECDC) for most countries, and from the JHU CSSE data repository"
+      },
+      "stringencyindex": {
+        "en": "Overall stringency of the governments response. Aggregation of indicators S1 to S7."
+      },
+      "stringencyindexfordisplay": {
+        "en": "Overall stringency of the governments response for display. Aggregation of indicators S1 to S7."
+      }
+    },
+    "geo": {
+      "abw": {
+        "en": "Aruba"
+      },
+      "afg": {
+        "en": "Afghanistan"
+      },
+      "ago": {
+        "en": "Angola"
+      },
+      "alb": {
+        "en": "Albania"
+      },
+      "and": {
+        "en": "Andorra"
+      },
+      "are": {
+        "en": "United Arab Emirates"
+      },
+      "arg": {
+        "en": "Argentina"
+      },
+      "aus": {
+        "en": "Australia"
+      },
+      "aut": {
+        "en": "Austria"
+      },
+      "aze": {
+        "en": "Azerbaijan"
+      },
+      "bdi": {
+        "en": "Burundi"
+      },
+      "bel": {
+        "en": "Belgium"
+      },
+      "bfa": {
+        "en": "Burkina Faso"
+      },
+      "bgd": {
+        "en": "Bangladesh"
+      },
+      "bgr": {
+        "en": "Bulgaria"
+      },
+      "bhr": {
+        "en": "Bahrain"
+      },
+      "bih": {
+        "en": "Bosnia and Herzegovina"
+      },
+      "blz": {
+        "en": "Belize"
+      },
+      "bmu": {
+        "en": "Bermuda"
+      },
+      "bol": {
+        "en": "Bolivia"
+      },
+      "bra": {
+        "en": "Brazil"
+      },
+      "brb": {
+        "en": "Barbados"
+      },
+      "brn": {
+        "en": "Brunei"
+      },
+      "bwa": {
+        "en": "Botswana"
+      },
+      "can": {
+        "en": "Canada"
+      },
+      "che": {
+        "en": "Switzerland"
+      },
+      "chl": {
+        "en": "Chile"
+      },
+      "chn": {
+        "en": "China"
+      },
+      "cmr": {
+        "en": "Cameroon"
+      },
+      "cod": {
+        "en": "Democratic Republic of Congo"
+      },
+      "col": {
+        "en": "Colombia"
+      },
+      "cpv": {
+        "en": "Cape Verde"
+      },
+      "cri": {
+        "en": "Costa Rica"
+      },
+      "cub": {
+        "en": "Cuba"
+      },
+      "cyp": {
+        "en": "Cyprus"
+      },
+      "cze": {
+        "en": "Czech Republic"
+      },
+      "deu": {
+        "en": "Germany"
+      },
+      "dji": {
+        "en": "Djibouti"
+      },
+      "dnk": {
+        "en": "Denmark"
+      },
+      "dom": {
+        "en": "Dominican Republic"
+      },
+      "dza": {
+        "en": "Algeria"
+      },
+      "ecu": {
+        "en": "Ecuador"
+      },
+      "egy": {
+        "en": "Egypt"
+      },
+      "esp": {
+        "en": "Spain"
+      },
+      "est": {
+        "en": "Estonia"
+      },
+      "fin": {
+        "en": "Finland"
+      },
+      "fra": {
+        "en": "France"
+      },
+      "gab": {
+        "en": "Gabon"
+      },
+      "gbr": {
+        "en": "United Kingdom"
+      },
+      "gha": {
+        "en": "Ghana"
+      },
+      "gmb": {
+        "en": "Gambia"
+      },
+      "grc": {
+        "en": "Greece"
+      },
+      "grl": {
+        "en": "Greenland"
+      },
+      "gtm": {
+        "en": "Guatemala"
+      },
+      "gum": {
+        "en": "Guam"
+      },
+      "guy": {
+        "en": "Guyana"
+      },
+      "hkg": {
+        "en": "Hong Kong"
+      },
+      "hnd": {
+        "en": "Honduras"
+      },
+      "hrv": {
+        "en": "Croatia"
+      },
+      "hun": {
+        "en": "Hungary"
+      },
+      "idn": {
+        "en": "Indonesia"
+      },
+      "ind": {
+        "en": "India"
+      },
+      "irl": {
+        "en": "Ireland"
+      },
+      "irn": {
+        "en": "Iran"
+      },
+      "irq": {
+        "en": "Iraq"
+      },
+      "isl": {
+        "en": "Iceland"
+      },
+      "isr": {
+        "en": "Israel"
+      },
+      "ita": {
+        "en": "Italy"
+      },
+      "jam": {
+        "en": "Jamaica"
+      },
+      "jor": {
+        "en": "Jordan"
+      },
+      "jpn": {
+        "en": "Japan"
+      },
+      "kaz": {
+        "en": "Kazakhstan"
+      },
+      "ken": {
+        "en": "Kenya"
+      },
+      "kgz": {
+        "en": "Kyrgyz Republic"
+      },
+      "kor": {
+        "en": "South Korea"
+      },
+      "kwt": {
+        "en": "Kuwait"
+      },
+      "lao": {
+        "en": "Laos"
+      },
+      "lbn": {
+        "en": "Lebanon"
+      },
+      "lby": {
+        "en": "Libya"
+      },
+      "lka": {
+        "en": "Sri Lanka"
+      },
+      "lso": {
+        "en": "Lesotho"
+      },
+      "lux": {
+        "en": "Luxembourg"
+      },
+      "mac": {
+        "en": "Macao"
+      },
+      "mar": {
+        "en": "Morocco"
+      },
+      "mda": {
+        "en": "Moldova"
+      },
+      "mdg": {
+        "en": "Madagascar"
+      },
+      "mex": {
+        "en": "Mexico"
+      },
+      "mli": {
+        "en": "Mali"
+      },
+      "mmr": {
+        "en": "Myanmar"
+      },
+      "mng": {
+        "en": "Mongolia"
+      },
+      "moz": {
+        "en": "Mozambique"
+      },
+      "mrt": {
+        "en": "Mauritania"
+      },
+      "mus": {
+        "en": "Mauritius"
+      },
+      "mwi": {
+        "en": "Malawi"
+      },
+      "mys": {
+        "en": "Malaysia"
+      },
+      "nam": {
+        "en": "Namibia"
+      },
+      "ner": {
+        "en": "Niger"
+      },
+      "nga": {
+        "en": "Nigeria"
+      },
+      "nic": {
+        "en": "Nicaragua"
+      },
+      "nld": {
+        "en": "Netherlands"
+      },
+      "nor": {
+        "en": "Norway"
+      },
+      "nzl": {
+        "en": "New Zealand"
+      },
+      "omn": {
+        "en": "Oman"
+      },
+      "pak": {
+        "en": "Pakistan"
+      },
+      "pan": {
+        "en": "Panama"
+      },
+      "per": {
+        "en": "Peru"
+      },
+      "phl": {
+        "en": "Philippines"
+      },
+      "png": {
+        "en": "Papua New Guinea"
+      },
+      "pol": {
+        "en": "Poland"
+      },
+      "pri": {
+        "en": "Puerto Rico"
+      },
+      "prt": {
+        "en": "Portugal"
+      },
+      "pry": {
+        "en": "Paraguay"
+      },
+      "pse": {
+        "en": "Palestine"
+      },
+      "qat": {
+        "en": "Qatar"
+      },
+      "rou": {
+        "en": "Romania"
+      },
+      "rus": {
+        "en": "Russia"
+      },
+      "rwa": {
+        "en": "Rwanda"
+      },
+      "sau": {
+        "en": "Saudi Arabia"
+      },
+      "sdn": {
+        "en": "Sudan"
+      },
+      "sgp": {
+        "en": "Singapore"
+      },
+      "sle": {
+        "en": "Sierra Leone"
+      },
+      "slv": {
+        "en": "El Salvador"
+      },
+      "smr": {
+        "en": "San Marino"
+      },
+      "srb": {
+        "en": "Serbia"
+      },
+      "ssd": {
+        "en": "South Sudan"
+      },
+      "svk": {
+        "en": "Slovak Republic"
+      },
+      "svn": {
+        "en": "Slovenia"
+      },
+      "swe": {
+        "en": "Sweden"
+      },
+      "swz": {
+        "en": "Eswatini"
+      },
+      "syc": {
+        "en": "Seychelles"
+      },
+      "syr": {
+        "en": "Syria"
+      },
+      "tcd": {
+        "en": "Chad"
+      },
+      "tha": {
+        "en": "Thailand"
+      },
+      "tto": {
+        "en": "Trinidad and Tobago"
+      },
+      "tun": {
+        "en": "Tunisia"
+      },
+      "tur": {
+        "en": "Turkey"
+      },
+      "tza": {
+        "en": "Tanzania"
+      },
+      "uga": {
+        "en": "Uganda"
+      },
+      "ukr": {
+        "en": "Ukraine"
+      },
+      "ury": {
+        "en": "Uruguay"
+      },
+      "usa": {
+        "en": "United States"
+      },
+      "uzb": {
+        "en": "Uzbekistan"
+      },
+      "ven": {
+        "en": "Venezuela"
+      },
+      "vnm": {
+        "en": "Vietnam"
+      },
+      "zaf": {
+        "en": "South Africa"
+      },
+      "zmb": {
+        "en": "Zambia"
+      },
+      "zwe": {
+        "en": "Zimbabwe"
+      },
+      "twn": {
+        "en": "Taiwan"
+      },
+      "rks": {
+        "en": "Kosovo"
+      }
+    }
+  },
+  "details": "Categories of the variables:\n        s1_school_closing = (0: no measures,\n                             1: recommend closing,\n                             2: require closing),\n        s1_isgeneral = (0: targeted,\n                        1: general),\n        s2_workplace_closing = (0: no measures,\n                                1: recommend closing,\n                                2: require closing),\n        s2_isgeneral = (0: targeted,\n                        1: general),\n        s3_cancel_public_events = (0: no measures,\n                                   1: recommend cancelling,\n                                   2: require cancelling),\n        s3_isgeneral = (0: targeted,\n                        1: general),\n        s4_close_public_transport = (0: no measures,\n                                     1: recommend closing,\n                                     2: require closing),\n        s4_isgeneral = (0: targeted,\n                        1: general),\n        s5_public_information_campaigns = (0: no covid-19 public information campaign,\n                                           1: covid-19 public information campaign),\n        s5_isgeneral = (0: targeted,\n                        1: general),\n        s6_restrictions_on_internal_movement = (0: no measures,\n                                                1: recommend movement restriction,\n                                                2: restrict movement),\n        s6_isgeneral = (0: targeted,\n                        1: general),\n        s7_international_travel_controls = (0: no measures,\n                                            1: screening,\n                                            2: quarantine on high-risk regions,\n                                            3: ban on high-risk regions),\n        s12_testing_framework = (0: no testing policy,\n                                 1: only testing those who both (a) have symptoms, and\n                                                                (b) meet specific criteria (eg key workers, admitted to hospital, came into contact with a known case, returned from overseas),\n                                 2: testing of anyone showing covid-19 symptoms,\n                                 3: open public testing (eg “drive through” testing available to asymptomatic people)),\n        s13_contact_tracing = (0: no contact tracing,\n                               1: limited contact tracing – not done for all cases,\n                               2: comprehensive contact tracing – done for all cases)\n\n    Additional notes about the policies can be found on https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest_withnotes.csv",
+  "utc.updated": "2020-05-06 08:26:05"
+}
