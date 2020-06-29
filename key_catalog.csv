@@ -44,7 +44,7 @@ ch.kof.mobind.activ.tot.maxmin,ch.kof.mobind
 ch.kof.mobind.activ.dom.maxmin,ch.kof.mobind
 ch.kof.mobind.activ.int.maxmin,ch.kof.mobind
 ch.kof.mobind.mobil.maxmin,ch.kof.mobind
-ch.kof.mobind.sales.maxmin,ch.kof.mobind    
+ch.kof.mobind.sales.maxmin,ch.kof.mobind
 ch.seco.easygov.loans.count,ch.seco.easygov.loans
 ch.seco.easygov.loans.cum_count,ch.seco.easygov.loans
 ch.seco.jobroom.vacancies.vs,ch.seco.jobroom
