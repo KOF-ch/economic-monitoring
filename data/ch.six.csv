@@ -259,7 +259,7 @@ time,variable,value
 2018-02-12,stat_einkauf,82100000
 2018-02-13,anz_bezug_bargeld,140600000
 2018-02-13,anz_debiteinsatz_ausland,133800000
-2018-02-13,anz_stat_einkauf,2011500000
+2018-02-13,anz_stat_einkauf,2011600000
 2018-02-13,bezug_bargeld,2.9e+07
 2018-02-13,debiteinsatz_ausland,17300000
 2018-02-13,stat_einkauf,105100000
@@ -1552,7 +1552,7 @@ time,variable,value
 2018-09-16,debiteinsatz_ausland,1700000
 2018-09-16,stat_einkauf,21400000
 2018-09-17,anz_bezug_bargeld,142800000
-2018-09-17,anz_debiteinsatz_ausland,281900000
+2018-09-17,anz_debiteinsatz_ausland,2.82e+08
 2018-09-17,anz_stat_einkauf,1932900000
 2018-09-17,bezug_bargeld,3.3e+07
 2018-09-17,debiteinsatz_ausland,31200000
@@ -4767,7 +4767,7 @@ time,variable,value
 2020-03-05,bezug_bargeld,1.26e+08
 2020-03-05,debiteinsatz_ausland,10300000
 2020-03-05,stat_einkauf,1.02e+08
-2020-03-06,anz_bezug_bargeld,456900000
+2020-03-06,anz_bezug_bargeld,4.57e+08
 2020-03-06,anz_debiteinsatz_ausland,93500000
 2020-03-06,anz_stat_einkauf,2621400000
 2020-03-06,bezug_bargeld,158400000
@@ -4883,7 +4883,7 @@ time,variable,value
 2020-03-24,stat_einkauf,61200000
 2020-03-25,anz_bezug_bargeld,219900000
 2020-03-25,anz_debiteinsatz_ausland,18900000
-2020-03-25,anz_stat_einkauf,1467500000
+2020-03-25,anz_stat_einkauf,1467400000
 2020-03-25,bezug_bargeld,152200000
 2020-03-25,debiteinsatz_ausland,2700000
 2020-03-25,stat_einkauf,69800000
@@ -5589,3 +5589,9 @@ time,variable,value
 2020-07-20,bezug_bargeld,92600000
 2020-07-20,debiteinsatz_ausland,28600000
 2020-07-20,stat_einkauf,125500000
+2020-07-21,anz_bezug_bargeld,286600000
+2020-07-21,anz_debiteinsatz_ausland,228100000
+2020-07-21,anz_stat_einkauf,2368600000
+2020-07-21,bezug_bargeld,93900000
+2020-07-21,debiteinsatz_ausland,23200000
+2020-07-21,stat_einkauf,111300000
