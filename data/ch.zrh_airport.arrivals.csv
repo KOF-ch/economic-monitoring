@@ -5735,3 +5735,16 @@ time,direction,rnwy,time_frame,value
 2020-08-04,arrival,34,0622,2
 2020-08-04,arrival,34,2200,0
 2020-08-04,arrival,all,total,131
+2020-08-05,arrival,14,0006,0
+2020-08-05,arrival,14,0622,135
+2020-08-05,arrival,14,2200,0
+2020-08-05,arrival,16,0006,0
+2020-08-05,arrival,16,0622,0
+2020-08-05,arrival,16,2200,0
+2020-08-05,arrival,28,0006,0
+2020-08-05,arrival,28,0622,11
+2020-08-05,arrival,28,2200,5
+2020-08-05,arrival,34,0006,0
+2020-08-05,arrival,34,0622,0
+2020-08-05,arrival,34,2200,0
+2020-08-05,arrival,all,total,151
