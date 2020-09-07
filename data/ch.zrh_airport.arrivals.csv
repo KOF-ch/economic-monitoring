@@ -6151,3 +6151,16 @@ time,direction,rnwy,time_frame,value
 2020-09-05,arrival,34,0622,9
 2020-09-05,arrival,34,2200,0
 2020-09-05,arrival,all,total,164
+2020-09-06,arrival,14,0006,0
+2020-09-06,arrival,14,0622,133
+2020-09-06,arrival,14,2200,0
+2020-09-06,arrival,16,0006,0
+2020-09-06,arrival,16,0622,0
+2020-09-06,arrival,16,2200,0
+2020-09-06,arrival,28,0006,0
+2020-09-06,arrival,28,0622,30
+2020-09-06,arrival,28,2200,9
+2020-09-06,arrival,34,0006,0
+2020-09-06,arrival,34,0622,10
+2020-09-06,arrival,34,2200,0
+2020-09-06,arrival,all,total,182
