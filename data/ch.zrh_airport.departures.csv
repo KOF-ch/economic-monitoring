@@ -6779,7 +6779,7 @@ time,direction,rnwy,route,value
 2020-09-16,departure,34,N,0
 2020-09-16,departure,34,O,2
 2020-09-16,departure,all,total,144
-2020-09-17,departure,10,A,24
+2020-09-17,departure,10,A,25
 2020-09-17,departure,10,B,2
 2020-09-17,departure,10,C,48
 2020-09-17,departure,10,D,0
@@ -6793,7 +6793,7 @@ time,direction,rnwy,route,value
 2020-09-17,departure,32,O,3
 2020-09-17,departure,34,N,6
 2020-09-17,departure,34,O,6
-2020-09-17,departure,all,total,133
+2020-09-17,departure,all,total,134
 2020-09-18,departure,10,A,0
 2020-09-18,departure,10,B,0
 2020-09-18,departure,10,C,0
@@ -6809,3 +6809,18 @@ time,direction,rnwy,route,value
 2020-09-18,departure,34,N,5
 2020-09-18,departure,34,O,5
 2020-09-18,departure,all,total,170
+2020-09-19,departure,10,A,0
+2020-09-19,departure,10,B,0
+2020-09-19,departure,10,C,0
+2020-09-19,departure,10,D,0
+2020-09-19,departure,16,E,6
+2020-09-19,departure,16,F,4
+2020-09-19,departure,16,G,0
+2020-09-19,departure,28,I,63
+2020-09-19,departure,28,K,41
+2020-09-19,departure,28,L,0
+2020-09-19,departure,32,N,11
+2020-09-19,departure,32,O,20
+2020-09-19,departure,34,N,7
+2020-09-19,departure,34,O,9
+2020-09-19,departure,all,total,161
