@@ -6593,3 +6593,16 @@ time,direction,rnwy,time_frame,value
 2020-10-09,arrival,34,0622,0
 2020-10-09,arrival,34,2200,0
 2020-10-09,arrival,all,total,166
+2020-10-10,arrival,14,0006,0
+2020-10-10,arrival,14,0622,123
+2020-10-10,arrival,14,2200,0
+2020-10-10,arrival,16,0006,0
+2020-10-10,arrival,16,0622,0
+2020-10-10,arrival,16,2200,0
+2020-10-10,arrival,28,0006,0
+2020-10-10,arrival,28,0622,13
+2020-10-10,arrival,28,2200,7
+2020-10-10,arrival,34,0006,0
+2020-10-10,arrival,34,0622,12
+2020-10-10,arrival,34,2200,0
+2020-10-10,arrival,all,total,155
