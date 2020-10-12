@@ -7315,6 +7315,8 @@ int.covid19.oxford_policy_tracker.e1_flag.tca,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.e1_flag.tls,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c2_flag.zmb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c4_flag.cpv,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.confirmedcases.com,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.confirmeddeaths.com,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.e1_flag.sdn,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c6_flag.caf,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c6_flag.tjk,int.covid19.oxford_policy_tracker
@@ -7363,6 +7365,7 @@ int.covid19.oxford_policy_tracker.e1_flag.idn,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.e1_flag.ven,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c1_flag.vir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c1_school_closing.vir,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.e1_flag.bdi,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c6_flag.ner,int.covid19.oxford_policy_tracker
 ch.kof.mobind.activ.dom.maxmin,ch.kof.mobind
 ch.kof.mobind.activ.dom.meanvar,ch.kof.mobind
