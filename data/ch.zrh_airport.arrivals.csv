@@ -6671,3 +6671,16 @@ time,direction,rnwy,time_frame,value
 2020-10-15,arrival,34,0622,11
 2020-10-15,arrival,34,2200,3
 2020-10-15,arrival,all,total,116
+2020-10-16,arrival,14,0006,0
+2020-10-16,arrival,14,0622,129
+2020-10-16,arrival,14,2200,0
+2020-10-16,arrival,16,0006,0
+2020-10-16,arrival,16,0622,0
+2020-10-16,arrival,16,2200,0
+2020-10-16,arrival,28,0006,0
+2020-10-16,arrival,28,0622,0
+2020-10-16,arrival,28,2200,0
+2020-10-16,arrival,34,0006,0
+2020-10-16,arrival,34,0622,17
+2020-10-16,arrival,34,2200,7
+2020-10-16,arrival,all,total,153
