@@ -7272,6 +7272,7 @@ int.covid19.oxford_policy_tracker.c5_flag.tcd,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c7_flag.tcd,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.e1_flag.bgd,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.e1_flag.dza,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.e1_flag.nga,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.e1_flag.phl,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c5_flag.sgp,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c3_flag.zmb,int.covid19.oxford_policy_tracker
