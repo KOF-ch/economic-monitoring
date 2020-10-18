@@ -1,18 +1,18 @@
 file,time,public,set_id,subset
 ch.seco.easygov.loans.csv,2020-10-14 22:00:22,TRUE,ch.seco.easygov.loans,ch.seco.easygov.loans
 ch.seco.jobroom.candidates.csv,2020-10-18 10:00:58,TRUE,ch.seco.jobroom.candidates,ch.seco.jobroom.candidates
-ch.seco.jobroom.vacancies.csv,2020-10-18 10:01:16,TRUE,ch.seco.jobroom.vacancies,ch.seco.jobroom.vacancies
-ch.shab.csv,2020-10-18 10:01:27,TRUE,ch.shab,ch.shab
-ch.six.csv,2020-10-18 10:01:28,TRUE,ch.six,ch.six
-ch.swissgrid.csv,2020-10-18 10:01:32,TRUE,ch.swissgrid,ch.swissgrid
-ch.trendecon.csv,2020-10-18 10:01:34,TRUE,ch.trendecon,ch.trendecon
+ch.seco.jobroom.vacancies.csv,2020-10-18 22:01:13,TRUE,ch.seco.jobroom.vacancies,ch.seco.jobroom.vacancies
+ch.shab.csv,2020-10-18 22:01:24,TRUE,ch.shab,ch.shab
+ch.six.csv,2020-10-18 22:01:24,TRUE,ch.six,ch.six
+ch.swissgrid.csv,2020-10-18 22:01:29,TRUE,ch.swissgrid,ch.swissgrid
+ch.trendecon.csv,2020-10-18 22:01:31,TRUE,ch.trendecon,ch.trendecon
 ch.zrh_airport.departures.csv,2020-10-18 10:01:35,TRUE,ch.zrh_airport.departures,ch.zrh_airport.departures
 ch.zrh_airport.arrivals.csv,2020-10-18 10:01:35,TRUE,ch.zrh_airport.arrivals,ch.zrh_airport.arrivals
-ch.zrh_city.parking.csv,2020-10-18 10:03:00,TRUE,ch.zrh_city.parking,ch.zrh_city.parking
+ch.zrh_city.parking.csv,2020-10-18 22:03:16,TRUE,ch.zrh_city.parking,ch.zrh_city.parking
 ch.zueriluft.csv,2020-10-18 10:03:04,TRUE,ch.zueriluft,ch.zueriluft
-int.covid19.oxford_policy_tracker.csv,2020-10-18 10:03:17,TRUE,int.covid19.oxford_policy_tracker,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.csv,2020-10-18 22:03:35,TRUE,int.covid19.oxford_policy_tracker,int.covid19.oxford_policy_tracker
 ch.intervista.trackingpanel.csv,2020-08-11 22:00:19,TRUE,ch.intervista.trackingpanel,ch.intervista.trackingpanel
 ch.spa.csv,2020-10-13 22:01:24,TRUE,ch.spa,ch.spa
-ch.kof.mobind.csv,2020-10-18 10:00:22,TRUE,ch.kof.mobind,ch.kof.mobind
+ch.kof.mobind.csv,2020-10-18 22:00:20,TRUE,ch.kof.mobind,ch.kof.mobind
 ch.zrh_city.traffic.csv,2020-10-12 22:03:10,TRUE,ch.zrh_city.traffic,ch.zrh_city.traffic
 de.destatis.trucktoll.csv,2020-10-16 10:03:14,TRUE,de.destatis.trucktoll,de.destatis.trucktoll
