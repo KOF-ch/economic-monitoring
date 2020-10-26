@@ -7729,12 +7729,6 @@ int.covid19.oxford_policy_tracker.c6_flag.ner,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.e1_flag.gmb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.confirmedcases.slb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.confirmeddeaths.slb,int.covid19.oxford_policy_tracker
-ch.kof.mobind.activ.dom.maxmin,ch.kof.mobind
-ch.kof.mobind.activ.dom.meanvar,ch.kof.mobind
-ch.kof.mobind.activ.int.maxmin,ch.kof.mobind
-ch.kof.mobind.activ.int.meanvar,ch.kof.mobind
-ch.kof.mobind.activ.tot.maxmin,ch.kof.mobind
-ch.kof.mobind.activ.tot.meanvar,ch.kof.mobind
 ch.kof.mobind.activity_abroad.maxmin,ch.kof.mobind
 ch.kof.mobind.activity_abroad.meanvar,ch.kof.mobind
 ch.kof.mobind.activity_domestic.maxmin,ch.kof.mobind
