@@ -450,6 +450,18 @@ ch.intervista.trackingpanel.ch.tages_distanz_50-100km,ch.intervista.trackingpane
 ch.intervista.trackingpanel.ch.tages_distanz_50-100km_alter_1529,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.ch.tages_distanz_50-100km_alter_3064,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.ch.tages_distanz_50-100km_alter_6579,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.ch.tages_distanz_mittelwert,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.rural.tages_distanz_mittelwert,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.urban.tages_distanz_mittelwert,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.zh.tages_distanz_mittelwert,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.ch.tages_distanz_mittelwert_alter_1529,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.ch.tages_distanz_mittelwert_alter_3064,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.ch.tages_distanz_mittelwert_alter_6579,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.ch.tages_distanz_mittelwert_erwerbstaetig,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.ch.tages_distanz_mittelwert_in_ausbildung,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.ch.tages_distanz_mittelwert_maennlich,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.ch.tages_distanz_mittelwert_nicht_erwerbstaetig,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.ch.tages_distanz_mittelwert_weiblich,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.ch.tages_distanz_weniger2km,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.ch.tages_distanz_weniger2km_alter_1529,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.ch.tages_distanz_weniger2km_alter_3064,ch.intervista.trackingpanel
@@ -7733,6 +7745,7 @@ int.covid19.oxford_policy_tracker.c5_flag.yem,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h6_flag.yem,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.confirmedcases.slb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.confirmeddeaths.slb,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.c3_flag.blr,int.covid19.oxford_policy_tracker
 ch.kof.mobind.activ.dom.maxmin,ch.kof.mobind
 ch.kof.mobind.activ.dom.meanvar,ch.kof.mobind
 ch.kof.mobind.activ.int.maxmin,ch.kof.mobind
