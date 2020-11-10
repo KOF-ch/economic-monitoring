@@ -504,6 +504,8 @@ ch.intervista.trackingpanel.ch.maennlich.sa,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.ch.nicht_erwerbstaetig,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.ch.nicht_erwerbstaetig.sa,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.ch.tages_distanz_mittelwert,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.ch-land.tages_distanz_mittelwert,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.ch-urban.tages_distanz_mittelwert,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.deutschschweiz.tages_distanz_mittelwert,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.italienische schweiz.tages_distanz_mittelwert,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.romandie.tages_distanz_mittelwert,ch.intervista.trackingpanel
@@ -511,6 +513,8 @@ ch.intervista.trackingpanel.rural.tages_distanz_mittelwert,ch.intervista.trackin
 ch.intervista.trackingpanel.urban.tages_distanz_mittelwert,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.zh.tages_distanz_mittelwert,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.ch.tages_distanz_mittelwert.sa,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.ch-land.tages_distanz_mittelwert.sa,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.ch-urban.tages_distanz_mittelwert.sa,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.deutschschweiz.tages_distanz_mittelwert.sa,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.italienische schweiz.tages_distanz_mittelwert.sa,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.romandie.tages_distanz_mittelwert.sa,ch.intervista.trackingpanel
@@ -568,6 +572,8 @@ ch.intervista.trackingpanel.ch.tages_distanz_mittelwert_zweck_freizeit.sa,ch.int
 ch.intervista.trackingpanel.ch.tages_distanz_mittelwert_zweck_pendeln,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.ch.tages_distanz_mittelwert_zweck_pendeln.sa,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.ch.total,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.ch-land.total,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.ch-urban.total,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.deutschschweiz.total,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.italienische schweiz.total,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.romandie.total,ch.intervista.trackingpanel
@@ -575,6 +581,8 @@ ch.intervista.trackingpanel.rural.total,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.urban.total,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.zh.total,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.ch.total.sa,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.ch-land.total.sa,ch.intervista.trackingpanel
+ch.intervista.trackingpanel.ch-urban.total.sa,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.deutschschweiz.total.sa,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.italienische schweiz.total.sa,ch.intervista.trackingpanel
 ch.intervista.trackingpanel.romandie.total.sa,ch.intervista.trackingpanel
@@ -7860,6 +7868,7 @@ int.covid19.oxford_policy_tracker.h6_flag.yem,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.confirmedcases.slb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.confirmeddeaths.slb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c4_flag.tkm,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.h6_facial_coverings.pse,int.covid19.oxford_policy_tracker
 ch.kof.mobind.activ.tot.maxmin,ch.kof.mobind
 ch.kof.mobind.mobil.maxmin,ch.kof.mobind
 ch.kof.mobind.sales.maxmin,ch.kof.mobind
