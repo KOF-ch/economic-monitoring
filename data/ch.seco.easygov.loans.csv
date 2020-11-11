@@ -217,8 +217,8 @@ time,variable,value
 2020-07-11,cum_count,130874
 2020-07-12,count,0
 2020-07-12,cum_count,130874
-2020-07-13,count,240
-2020-07-13,cum_count,131114
+2020-07-13,count,245
+2020-07-13,cum_count,131119
 2020-07-14,count,179
 2020-07-14,cum_count,131298
 2020-07-15,count,154
@@ -253,5 +253,5 @@ time,variable,value
 2020-07-29,cum_count,133656
 2020-07-30,count,349
 2020-07-30,cum_count,134005
-2020-07-31,count,1254
-2020-07-31,cum_count,135259
+2020-07-31,count,1413
+2020-07-31,cum_count,135418
