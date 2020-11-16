@@ -1796,6 +1796,7 @@ int.covid19.oxford_policy_tracker.c7_restrictions_on_internal_movement.bfa,int.c
 int.covid19.oxford_policy_tracker.c7_restrictions_on_internal_movement.bgd,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c7_restrictions_on_internal_movement.bgr,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c7_restrictions_on_internal_movement.bhr,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.c7_restrictions_on_internal_movement.bhs,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c7_restrictions_on_internal_movement.bih,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c7_restrictions_on_internal_movement.blr,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c7_restrictions_on_internal_movement.blz,int.covid19.oxford_policy_tracker
@@ -4841,6 +4842,7 @@ int.covid19.oxford_policy_tracker.h5_investment_in_vaccines.bfa,int.covid19.oxfo
 int.covid19.oxford_policy_tracker.h5_investment_in_vaccines.bgd,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h5_investment_in_vaccines.bgr,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h5_investment_in_vaccines.bhr,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.h5_investment_in_vaccines.bhs,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h5_investment_in_vaccines.bih,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h5_investment_in_vaccines.blr,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h5_investment_in_vaccines.blz,int.covid19.oxford_policy_tracker
@@ -7287,6 +7289,7 @@ int.covid19.oxford_policy_tracker.c6_flag.cym,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c6_flag.cyp,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c6_flag.mda,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c6_flag.ssd,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.c7_flag.bhs,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c7_flag.civ,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c7_flag.cyp,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c7_flag.mda,int.covid19.oxford_policy_tracker
