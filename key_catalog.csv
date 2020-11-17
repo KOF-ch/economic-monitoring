@@ -7921,6 +7921,7 @@ int.covid19.oxford_policy_tracker.c5_flag.mys,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c2_flag.ner,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c6_flag.nor,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c5_flag.dma,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.c5_flag.hkg,int.covid19.oxford_policy_tracker
 ch.kof.mobind.activ.tot.maxmin,ch.kof.mobind
 ch.kof.mobind.mobil.maxmin,ch.kof.mobind
 ch.kof.mobind.sales.maxmin,ch.kof.mobind
