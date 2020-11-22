@@ -34420,8 +34420,8 @@ time,availability,geo,value
 2020-11-22,immediate,so,1938
 2020-11-22,immediate,sz,932
 2020-11-22,immediate,tg,1949
-2020-11-22,immediate,ti,4554
-2020-11-22,immediate,tot,91106
+2020-11-22,immediate,ti,4555
+2020-11-22,immediate,tot,91107
 2020-11-22,immediate,ur,223
 2020-11-22,immediate,vd,13021
 2020-11-22,immediate,vs,6072
@@ -34430,7 +34430,7 @@ time,availability,geo,value
 2020-11-22,tot,ag,16134
 2020-11-22,tot,ai,106
 2020-11-22,tot,ar,886
-2020-11-22,tot,be,14091
+2020-11-22,tot,be,14090
 2020-11-22,tot,bl,5110
 2020-11-22,tot,bs,3837
 2020-11-22,tot,fr,8254
@@ -34448,7 +34448,7 @@ time,availability,geo,value
 2020-11-22,tot,sz,2186
 2020-11-22,tot,tg,5490
 2020-11-22,tot,ti,10063
-2020-11-22,tot,tot,198457
+2020-11-22,tot,tot,198456
 2020-11-22,tot,ur,399
 2020-11-22,tot,vd,26842
 2020-11-22,tot,vs,9048
