@@ -1,0 +1,41 @@
+{
+  "title": {
+    "de": "Täglicher Lkw-Maut-Fahrleistungsindex"
+  },
+  "source.name": {
+    "de": "Destatis"
+  },
+  "source_url": "https://www.destatis.de/DE/Themen/Branchen-Unternehmen/Industrie-Verarbeitendes-Gewerbe/Tabellen/Lkw-Maut-Fahrleistungsindex-Daten.html",
+  "units": {
+    "all": "index"
+  },
+  "aggregate": {
+    "all": "mean"
+  },
+  "dim.order": ["variable", "sa"],
+  "hierarchy": {
+    "sa": {
+      "sa": null,
+      "nsa": null
+    }
+  },
+  "labels": {
+    "dimnames": {
+      "sa": {
+        "de": "Saisonbereinigung"
+      }
+    },
+    "sa": {
+      "sa": {
+        "de": "Kalender- und Saisonbereinigt (KSB)"
+      },
+      "nsa": {
+        "de": "Unbereinigt"
+      }
+    }
+  },
+  "details": {
+    "de": null
+  },
+  "utc.updated": "2020-11-23 13:52:27"
+}

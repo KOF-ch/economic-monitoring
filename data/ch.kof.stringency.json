@@ -1,0 +1,225 @@
+{
+  "title": {
+    "de": "KOF COVID Stringency Index",
+    "en": "KOF COVID Stringency Index",
+    "fr": "KOF COVID Stringency Index"
+  },
+  "source.name": {
+    "de": "KOF Konjunkturforschungsstelle",
+    "fr": "KOF Centre de recherches conjoncturelles",
+    "en": "KOF Swiss Economic Institute"
+  },
+  "source_url": "https://kof.ethz.ch",
+  "units": {
+    "all": "index"
+  },
+  "aggregate": {
+    "all": "mean"
+  },
+  "dim.order": ["geo", "variable"],
+  "hierarchy": {
+    "geo": {
+      "ch": {
+        "ag": null,
+        "ar": null,
+        "ai": null,
+        "bl": null,
+        "bs": null,
+        "be": null,
+        "fr": null,
+        "ge": null,
+        "gl": null,
+        "gr": null,
+        "ju": null,
+        "lu": null,
+        "ne": null,
+        "nw": null,
+        "ow": null,
+        "sg": null,
+        "sh": null,
+        "sz": null,
+        "so": null,
+        "ti": null,
+        "tg": null,
+        "ur": null,
+        "vd": null,
+        "vs": null,
+        "zg": null,
+        "zh": null
+      }
+    },
+    "variable": {
+      "stringency": null,
+      "stringency_plus": null
+    }
+  },
+  "labels": {
+    "dimnames": {
+      "geo": {
+        "de": "Kanton",
+        "fr": "Canton",
+        "en": "Canton"
+      },
+      "variable": {
+        "de": "Variable",
+        "fr": "Variable",
+        "en": "Variable"
+      }
+    },
+    "geo": {
+      "ag": {
+        "de": "Aargau",
+        "fr": "Argovie",
+        "en": "Aargau"
+      },
+      "ar": {
+        "de": "Appenzell Ausserrhoden",
+        "fr": "Appenzell Rhodes-Exterieures",
+        "en": "Appenzell Ausserrhoden"
+      },
+      "ai": {
+        "de": "Appenzell Innerrhoden",
+        "fr": "Appenzell Rhodes-Interieures",
+        "en": "Appenzell Innerrhoden"
+      },
+      "bl": {
+        "de": "Basel-Landschaft",
+        "fr": "Bale-Campagne",
+        "en": "Basel-Landschaft"
+      },
+      "bs": {
+        "de": "Basel-Stadt",
+        "fr": "Bale-Ville",
+        "en": "Basel-Stadt"
+      },
+      "be": {
+        "de": "Bern",
+        "fr": "Berne",
+        "en": "Berne"
+      },
+      "fr": {
+        "de": "Freiburg",
+        "fr": "Fribourg",
+        "en": "Fribourg"
+      },
+      "ge": {
+        "de": "Genf",
+        "fr": "Geneve",
+        "en": "Geneva"
+      },
+      "gl": {
+        "de": "Glarus",
+        "fr": "Glaris",
+        "en": "Glarus"
+      },
+      "gr": {
+        "de": "Graubuenden",
+        "fr": "Grisons",
+        "en": "Graubuenden"
+      },
+      "ju": {
+        "de": "Jura",
+        "fr": "Jura",
+        "en": "Jura"
+      },
+      "lu": {
+        "de": "Luzern",
+        "fr": "Lucerne",
+        "en": "Lucerne"
+      },
+      "ne": {
+        "de": "Neuenburg",
+        "fr": "Neuchatel",
+        "en": "Neuchatel"
+      },
+      "nw": {
+        "de": "Nidwalden",
+        "fr": "Nidwald",
+        "en": "Nidwalden"
+      },
+      "ow": {
+        "de": "Obwalden",
+        "fr": "Obwald",
+        "en": "Obwalden"
+      },
+      "sg": {
+        "de": "St Gallen",
+        "fr": "Saint-Gall",
+        "en": "St Gallen"
+      },
+      "sh": {
+        "de": "Schaffhausen",
+        "fr": "Schaffhouse",
+        "en": "Schaffhausen"
+      },
+      "sz": {
+        "de": "Schwyz",
+        "fr": "Schwyz",
+        "en": "Schwyz"
+      },
+      "so": {
+        "de": "Solothurn",
+        "fr": "Soleure",
+        "en": "Solothurn"
+      },
+      "ti": {
+        "de": "Tessin",
+        "fr": "Tessin",
+        "en": "Ticino"
+      },
+      "tg": {
+        "de": "Thurgau",
+        "fr": "Thurgovie",
+        "en": "Thurgau"
+      },
+      "ur": {
+        "de": "Uri",
+        "fr": "Uri",
+        "en": "Uri"
+      },
+      "vd": {
+        "de": "Waadt",
+        "fr": "Vaud",
+        "en": "Valais"
+      },
+      "vs": {
+        "de": "Wallis",
+        "fr": "Valais",
+        "en": "Wallis"
+      },
+      "zg": {
+        "de": "Zug",
+        "fr": "Zoug",
+        "en": "Zug"
+      },
+      "zh": {
+        "de": "Zurich",
+        "fr": "Zurich",
+        "en": "Zurich"
+      },
+      "ch": {
+        "de": "Schweiz",
+        "fr": "Suisse",
+        "en": "Switzerland"
+      }
+    },
+    "variable": {
+      "stringency": {
+        "de": "KOF Stringency Index",
+        "fr": "KOF Stringency Index",
+        "en": "KOF Stringency Index"
+      },
+      "stringency_plus": {
+        "de": "KOF Stringency Plus Index",
+        "fr": "KOF Stringency Plus Index",
+        "en": "KOF Stringency Plus Index"
+      }
+    }
+  },
+  "details": {
+    "de": null,
+    "fr": null,
+    "en": "Stringency index records COVID-related restrictions imposed by Swiss national and cantonal governments. It consists of nine subindices: School closure, workplace closure, cancellation of public events, restrictions on gatherings, public transport closure, stay-at-home requirements, restrictions on internal movement, international travel controls and public info campaigns. These subindices are based on the Oxford Stringency Index."
+  },
+  "utc.updated": "2020-11-23 13:49:58"
+}

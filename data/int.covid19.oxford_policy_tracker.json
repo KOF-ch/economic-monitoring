@@ -8,62 +8,83 @@
   "source_url": "https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker",
   "units": {
     "indicator": {
-      "s1_school_closing": {
+      "c1_school_closing": {
         "en": "category"
       },
-      "s1_isgeneral": {
+      "c1_flag": {
         "en": "binary"
       },
-      "s2_workplace_closing": {
+      "c2_workplace_closing": {
         "en": "category"
       },
-      "s2_isgeneral": {
+      "c2_flag": {
         "en": "binary"
       },
-      "s3_cancel_public_events": {
+      "c3_cancel_public_events": {
         "en": "category"
       },
-      "s3_isgeneral": {
+      "c3_flag": {
         "en": "binary"
       },
-      "s4_close_public_transport": {
+      "c4_restrictions_on_gatherings": {
         "en": "category"
       },
-      "s4_isgeneral": {
+      "c4_flag": {
         "en": "binary"
       },
-      "s5_public_information_campaigns": {
+      "c5_close_public_transport": {
         "en": "binary"
       },
-      "s5_isgeneral": {
+      "c5_flag": {
         "en": "binary"
       },
-      "s6_restrictions_on_internal_movement": {
+      "c6_stay_at_home_requirements": {
         "en": "category"
       },
-      "s6_isgeneral": {
+      "c6_flag": {
         "en": "binary"
       },
-      "s7_international_travel_controls": {
+      "c7_restrictions_on_internal_movement": {
         "en": "category"
       },
-      "s8_fiscal_measures": {
+      "c7_flag": {
         "en": "binary"
       },
-      "s9_monetary_measures": {
-        "en": "percent"
+      "c8_international_travel_controls": {
+        "en": "category"
       },
-      "s10_emergency_investment_in_health_care": {
+      "e1_income_support": {
+        "en": "category"
+      },
+      "e1_flag": {
+        "en": "binary"
+      },
+      "e2_debt_contract_relief": {
+        "en": "category"
+      },
+      "e3_fiscal_measures": {
         "en": "usd"
       },
-      "s11_investment_in_vaccines": {
+      "e4_international_support": {
         "en": "usd"
       },
-      "s12_testing_framework": {
+      "h1_public_information_campaigns": {
         "en": "category"
       },
-      "s13_contact_tracing": {
+      "h1_flag": {
+        "en": "binary"
+      },
+      "h2_testing_policy": {
         "en": "category"
+      },
+      "h3_contact_tracing": {
+        "en": "category"
+      },
+      "h4_emergency_investment_in_healthcare": {
+        "en": "usd"
+      },
+      "h5_investment_in_vaccines": {
+        "en": "usd"
       },
       "confirmedcases": {
         "en": "number"
@@ -76,6 +97,30 @@
       },
       "stringencyindexfordisplay": {
         "en": "index"
+      },
+      "stringencylegacyindex": {
+        "en": "index"
+      },
+      "stringencylegacyindexfordisplay": {
+        "en": "index"
+      },
+      "governmentresponseindex": {
+        "en": "index"
+      },
+      "governmentresponseindexfordisplay": {
+        "en": "index"
+      },
+      "containmenthealthindex": {
+        "en": "index"
+      },
+      "containmenthealthindexfordisplay": {
+        "en": "index"
+      },
+      "economicsupportindex": {
+        "en": "index"
+      },
+      "economicsupportindexfordisplay": {
+        "en": "index"
       }
     }
   },
@@ -85,29 +130,44 @@
   "dim.order": ["indicator", "geo"],
   "hierarchy": {
     "indicator": {
-      "s1_school_closing": null,
-      "s1_isgeneral": null,
-      "s2_workplace_closing": null,
-      "s2_isgeneral": null,
-      "s3_cancel_public_events": null,
-      "s3_isgeneral": null,
-      "s4_close_public_transport": null,
-      "s4_isgeneral": null,
-      "s5_public_information_campaigns": null,
-      "s5_isgeneral": null,
-      "s6_restrictions_on_internal_movement": null,
-      "s6_isgeneral": null,
-      "s7_international_travel_controls": null,
-      "s8_fiscal_measures": null,
-      "s9_monetary_measures": null,
-      "s10_emergency_investment_in_health_care": null,
-      "s11_investment_in_vaccines": null,
-      "s12_testing_framework": null,
-      "s13_contact_tracing": null,
+      "c1_school_closing": null,
+      "c1_flag": null,
+      "c2_workplace_closing": null,
+      "c2_flag": null,
+      "c3_cancel_public_events": null,
+      "c3_flag": null,
+      "c4_restrictions_on_gatherings": null,
+      "c4_flag": null,
+      "c5_close_public_transport": null,
+      "c5_flag": null,
+      "c6_stay_at_home_requirements": null,
+      "c6_flag": null,
+      "c7_restrictions_on_internal_movement": null,
+      "c7_flag": null,
+      "c8_international_travel_controls": null,
+      "e1_income_support": null,
+      "e1_flag": null,
+      "e2_debt_contract_relief": null,
+      "e3_fiscal_measures": null,
+      "e4_international_support": null,
+      "h1_public_information_campaigns": null,
+      "h1_flag": null,
+      "h2_testing_policy": null,
+      "h3_contact_tracing": null,
+      "h4_emergency_investment_in_healthcare": null,
+      "h5_investment_in_vaccines": null,
       "confirmedcases": null,
       "confirmeddeaths": null,
       "stringencyindex": null,
-      "stringencyindexfordisplay": null
+      "stringencyindexfordisplay": null,
+      "stringencylegacyindex": null,
+      "stringencylegacyindexfordisplay": null,
+      "governmentresponseindex": null,
+      "governmentresponseindexfordisplay": null,
+      "containmenthealthindex": null,
+      "containmenthealthindexfordisplay": null,
+      "economicsupportindex": null,
+      "economicsupportindexfordisplay": null
     },
     "geo": {
       "abw": null,
@@ -271,74 +331,119 @@
       }
     },
     "indicator": {
-      "s1_school_closing": {
-        "en": "ordinal scale - Record closings of schools and universities"
+      "c1_school_closing": {
+        "en": "Record closings of schools and universities"
       },
-      "s1_isgeneral": {
+      "c1_flag": {
         "en": "geographic scope - closings of schools and universities"
       },
-      "s2_workplace_closing": {
-        "en": "ordinal scale - Record closings of workplaces"
+      "c2_workplace_closing": {
+        "en": "Record closings of workplaces"
       },
-      "s2_isgeneral": {
-        "en": "geographic scope - closings of workplaces"
+      "c2_flag": {
+        "en": " "
       },
-      "s3_cancel_public_events": {
-        "en": "ordinal scale - Record cancelling public events"
+      "c3_cancel_public_events": {
+        "en": "Record cancelling public events"
       },
-      "s3_isgeneral": {
-        "en": "geographic scope - cancelling public events"
+      "c3_flag": {
+        "en": " "
       },
-      "s4_close_public_transport": {
-        "en": "ordinal scale - Record closing of public transport"
+      "c4_restrictions_on_gatherings": {
+        "en": "Record limits on private gatherings"
       },
-      "s4_isgeneral": {
-        "en": "geographic scope - closing of public transport"
+      "c4_flag": {
+        "en": " "
       },
-      "s5_public_information_campaigns": {
-        "en": "binary - Record presence of public info campaigns"
+      "c5_close_public_transport": {
+        "en": "Record closing of public transport"
       },
-      "s5_isgeneral": {
-        "en": "geographic scope - presence of public info campaigns"
+      "c5_flag": {
+        "en": " "
       },
-      "s6_restrictions_on_internal_movement": {
-        "en": "ordinal scale - Record restrictions on internal movement"
+      "c6_stay_at_home_requirements": {
+        "en": "Record orders to 'shelter-in-place' and otherwise confine to the home"
       },
-      "s6_isgeneral": {
-        "en": "geographic scope - restrictions on internal movement"
+      "c6_flag": {
+        "en": " "
       },
-      "s7_international_travel_controls": {
-        "en": "ordinal scale - Record restrictions on international travel"
+      "c7_restrictions_on_internal_movement": {
+        "en": "Record restrictions on internal movement between cities/regions"
       },
-      "s8_fiscal_measures": {
-        "en": "USD value of fiscal stimuli, including spending or tax cuts - Economic stimulus policies adopted"
+      "c7_flag": {
+        "en": " "
       },
-      "s9_monetary_measures": {
-        "en": "% value of interest rate - Monetary policy interventions"
+      "c8_international_travel_controls": {
+        "en": "Record restrictions on international travel. Note: this records policy for foreign travellers, not citizens"
       },
-      "s10_emergency_investment_in_health_care": {
-        "en": "USD Value of new short-term spending on health - Short-term spending on, e.g, hospitals, masks, etc"
+      "e1_income_support": {
+        "en": "Record if the government is providing direct cash payments to people who lose their jobs or cannot work. Note: only includes payments to firms if explicitly linked to payroll/salaries"
       },
-      "s11_investment_in_vaccines": {
-        "en": "USD Value of investment - Announced public spending on vaccine development"
+      "e1_flag": {
+        "en": ""
       },
-      "s12_testing_framework": {
-        "en": "ordinal scale - Who can get tested"
+      "e2_debt_contract_relief": {
+        "en": "Record if the government is freezing financial obligations for households (eg stopping loan repayments, preventing services like water from stopping, or banning evictions)"
       },
-      "s13_contact_tracing": {
-        "en": "ordinal scale - Are governments doing contact tracing"
+      "e3_fiscal_measures": {
+        "en": "Announced economic stimulus spending. Note: only record amount additional to previously announced spending"
+      },
+      "e4_international_support": {
+        "en": "Announced offers of Covid-19 related aid spending to other countries. Note: only record amount additional to previously announced spending"
+      },
+      "h1_public_information_campaigns": {
+        "en": "Record presence of public info campaigns"
+      },
+      "h1_flag": {
+        "en": " "
+      },
+      "h2_testing_policy": {
+        "en": "Record government policy on who has access to testing. Note: this records policies about testing for current infection (PCR tests) not testing for immunity (antibody test)"
+      },
+      "h3_contact_tracing": {
+        "en": "Record government policy on contact tracing after a positive diagnosis. Note: we are looking for policies that would identify all people potentially exposed to Covid-19; voluntary bluetooth apps are unlikely to achieve this"
+      },
+      "h4_emergency_investment_in_healthcare": {
+        "en": "Announced short term spending on healthcare system, eg hospitals, masks, etc. Note: only record amount additional to previously announced spending"
+      },
+      "h5_investment_in_vaccines": {
+        "en": "Announced public spending on Covid-19 vaccine development. Note: only record amount additional to previously announced spending"
       },
       "confirmedcases": {
-        "en": "confirmed cases from the European Centre for Disease Prevention and Control (ECDC) for most countries, and from the JHU CSSE data repository"
+        "en": "confirmed cases"
       },
       "confirmeddeaths": {
-        "en": "confirmed deaths from the European Centre for Disease Prevention and Control (ECDC) for most countries, and from the JHU CSSE data repository"
+        "en": "confirmed deaths"
       },
       "stringencyindex": {
-        "en": "Overall stringency of the governments response. Aggregation of indicators S1 to S7."
+        "en": "overall stringency index of the goverment response"
       },
       "stringencyindexfordisplay": {
-        "en": "Overall stringency of the governments response for display. Aggregation of indicators S1 to S7."
+        "en": "display version of the stringency index which will extrapolate to smooth over the last seven days when there is not enough data"
+      },
+      "stringencylegacyindex": {
+        "en": "Old stringencyindex calculated with few variables"
+      },
+      "stringencylegacyindexfordisplay": {
+        "en": "display version of the Old stringency index which will extrapolate to smooth over the last seven days when there is not enough data"
+      },
+      "governmentresponseindex": {
+        "en": "government response index"
+      },
+      "governmentresponseindexfordisplay": {
+        "en": "display version of the government response index which will extrapolate to smooth over the last seven days when there is not enough data"
+      },
+      "containmenthealthindex": {
+        "en": "containment health index"
+      },
+      "containmenthealthindexfordisplay": {
+        "en": "display version of the containment health index which will extrapolate to smooth over the last seven days when there is not enough data"
+      },
+      "economicsupportindex": {
+        "en": "economic support index"
+      },
+      "economicsupportindexfordisplay": {
+        "en": "display version of the economic support index which will extrapolate to smooth over the last seven days when there is not enough data"
       }
     },
     "geo": {
@@ -791,6 +896,6 @@
       }
     }
   },
-  "details": "Categories of the variables:\n        s1_school_closing = (0: no measures,\n                             1: recommend closing,\n                             2: require closing),\n        s1_isgeneral = (0: targeted,\n                        1: general),\n        s2_workplace_closing = (0: no measures,\n                                1: recommend closing,\n                                2: require closing),\n        s2_isgeneral = (0: targeted,\n                        1: general),\n        s3_cancel_public_events = (0: no measures,\n                                   1: recommend cancelling,\n                                   2: require cancelling),\n        s3_isgeneral = (0: targeted,\n                        1: general),\n        s4_close_public_transport = (0: no measures,\n                                     1: recommend closing,\n                                     2: require closing),\n        s4_isgeneral = (0: targeted,\n                        1: general),\n        s5_public_information_campaigns = (0: no covid-19 public information campaign,\n                                           1: covid-19 public information campaign),\n        s5_isgeneral = (0: targeted,\n                        1: general),\n        s6_restrictions_on_internal_movement = (0: no measures,\n                                                1: recommend movement restriction,\n                                                2: restrict movement),\n        s6_isgeneral = (0: targeted,\n                        1: general),\n        s7_international_travel_controls = (0: no measures,\n                                            1: screening,\n                                            2: quarantine on high-risk regions,\n                                            3: ban on high-risk regions),\n        s12_testing_framework = (0: no testing policy,\n                                 1: only testing those who both (a) have symptoms, and\n                                                                (b) meet specific criteria (eg key workers, admitted to hospital, came into contact with a known case, returned from overseas),\n                                 2: testing of anyone showing covid-19 symptoms,\n                                 3: open public testing (eg “drive through” testing available to asymptomatic people)),\n        s13_contact_tracing = (0: no contact tracing,\n                               1: limited contact tracing – not done for all cases,\n                               2: comprehensive contact tracing – done for all cases)\n\n    Additional notes about the policies can be found on https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest_withnotes.csv",
-  "utc.updated": "2020-05-06 08:26:05"
+  "details": "Categories of the variables:\n        Containment and closure policies\n\n        C1_School closing\n        \t0 - no measures\n        \t1 - recommend closing\n        \t2 - require closing (only some levels or categories, eg just high school, or just public schools)\n        \t3 - require closing all levels\n        \tBlank - no data\n        C1_Flag\n        \t0 - targeted\n        \t1- general\n        \tBlank - no data\n        C2_Workplace closing\n        \t0 - no measures\n        \t1 - recommend closing (or recommend work from home)\n        \t2 - require closing (or work from home) for some sectors or categories of workers\n        \t3 - require closing (or work from home) for all-but-essential workplaces (eg grocery stores, doctors)\n        \tBlank - no data\n        C2_Flag\n        \t0 - targeted\n        \t1- general\n        \tBlank - no data\n        C3_Cancel public events\n        \t0 - no measures\n        \t1 - recommend cancelling\n        \t2 - require cancelling\n        \tBlank - no data\n        C3_Flag\n        \t0 - targeted\n        \t1- general\n        \tBlank - no data\n        C4_Restrictions on gatherings\n        \t0 - no restrictions\n        \t1 - restrictions on very large gatherings (the limit is above 1000 people)\n        \t2 - restrictions on gatherings between 101-1000 people\n        \t3 - restrictions on gatherings between 11-100 people\n        \t4 - restrictions on gatherings of 10 people or less\n        \tBlank - no data\n        C4_Flag\n        \t0 - targeted\n        \t1- general\n        \tBlank - no data\n        C5_Close public transport\n        \t0 - no measures\n        \t1 - recommend closing (or significantly reduce volume/route/means of transport available)\n        \t2 - require closing (or prohibit most citizens from using it)\n        \tBlank - no data\n        C5_Flag\n        \t0 - targeted\n        \t1- general\n        \tBlank - no data\n        C6_Stay at home requirements\n        \t0 - no measures\n        \t1 - recommend not leaving house\n        \t2 - require not leaving house with exceptions for daily exercise, grocery shopping, and 'essential' trips\n        \t3 - require not leaving house with minimal exceptions (eg allowed to leave once a week, or only one person can leave at a time, etc)\n        \tBlank - no data\n        C6_Flag\n        \t0 - targeted\n        \t1- general\n        \tBlank - no data\n        C7_Restrictions on internal movement\n        \t0 - no measures\n        \t1 - recommend not to travel between regions/cities\n        \t2 - internal movement restrictions in place\n        \tBlank - no data\n        C7_Flag\n        \t0 - targeted\n        \t1- general\n        \tBlank - no data\n        C8_International travel controls\n        \t0 - no restrictions\n        \t1 - screening arrivals\n        \t2 - quarantine arrivals from some or all regions\n        \t3 - ban arrivals from some regions\n        \t4 - ban on all regions or total border closure\n        \tBlank - no data\n\n\n        Economic policies\n\n        E1_Income support\t(for households)\n        \t0 - no income support\n        \t1 - government is replacing less than 50% of lost salary (or if a flat sum, it is less than 50% median salary)\n        \t2 - government is replacing 50% or more of lost salary (or if a flat sum, it is greater than 50% median salary)\n        \tBlank - no data\n        E1_Flag\n        \t0 - formal sector workers only\n        \t1 - transfers to informal sector workers too\n        \tBlank - no data\n        E2_Debt/contract relief\t(for households)\n        \t0 - no debt/contract relief\n        \t1 - narrow relief, specific to one kind of contract\n        \t2 - broad debt/contract relief\n        E3_Fiscal measures\n        Record monetary value in USD of fiscal stimuli, includes any spending or tax cuts NOT included in E4, H4 or H5\n        \t0 - no new spending that day\n        \tBlank - no data\n        E4_International support\tRecord monetary value in USD\n        \t0 - no new spending that day\n        \tBlank - no data\n\n\n        Health system policies\n\n        H1_Public information campaigns\n        \t0 - no Covid-19 public information campaign\n        \t1 - public officials urging caution about Covid-19\n        \t2- coordinated public information campaign (eg across traditional and social media)\n        \tBlank - no data\n        H1_Flag\n        \t0 - targeted\n        \t1- general\n        \tBlank - no data\n        H2_Testing policy\n        \t0 - no testing policy\n        \t1 - only those who both (a) have symptoms AND (b) meet specific criteria (eg key workers, admitted to hospital, came into contact with a known case, returned from overseas)\n        \t2 - testing of anyone showing Covid-19 symptoms\n        \t3 - open public testing (eg 'drive through' testing available to asymptomatic people)\n        \tBlank - no data\n        H3_Contact tracing\n        \t0 - no contact tracing\n        \t1 - limited contact tracing; not done for all cases\n        \t2 - comprehensive contact tracing; done for all identified cases\n        H4_Emergency investment in healthcare\tRecord monetary value in USD\n        \t0 - no new spending that day\n        \tBlank - no data\n        H5_Investment in vaccines\tRecord monetary value in USD\n        \t0 - no new spending that day\n        \tBlank - no data\n\n\n    Additional notes about the policies can be found on https://github.com/OxCGRT/covid-policy-tracker/tree/master/documentation",
+  "utc.updated": "2020-11-23 13:52:35"
 }

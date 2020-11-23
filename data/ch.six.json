@@ -9,9 +9,12 @@
   "dim.order": "variable",
   "hierarchy": {
     "variable": {
-      "stat_einkauf": null,
+      "anz_bezug_bargeld": null,
+      "anz_debiteinsatz_ausland": null,
+      "anz_stat_einkauf": null,
+      "debiteinsatz_ausland": null,
       "bezug_bargeld": null,
-      "stat_einkauf.1": null
+      "stat_einkauf": null
     }
   },
   "labels": {
@@ -20,13 +23,25 @@
         "en": "variable"
       }
     },
+    "anz_bezug_bargeld": {
+      "en": "Transactions Cash Withdrawal Switzerland",
+      "de": "Transaktionen Bargeldbezug Debitkarten in der Schweiz"
+    },
+    "anz_debiteinsatz_ausland": {
+      "en": "Transactions Debitcard use abroad",
+      "de": "Transactions Debitkarteneinsatz im Ausland"
+    },
+    "anz_stat_einkauf": {
+      "en": "Transactions debit card use in retatil (w/o online)",
+      "de": "Finanzvolumen Debitkarteneinsatz stationärer Einkauf in der Schweiz (kein Online-Handel)"
+    },
     "debiteinsatz_ausland": {
       "en": "Volume Debitcard use abroad",
-      "de": " Finanzvolumen Debitkarteneinsatz im Ausland"
+      "de": "Finanzvolumen Debitkarteneinsatz im Ausland"
     },
     "bezug_bargeld": {
       "en": "Volume Cash Withdrawal Switzerland",
-      "de": " Finanzvolumen Bargeldbezug Debitkarten in der Schweiz"
+      "de": "Finanzvolumen Bargeldbezug Debitkarten in der Schweiz"
     },
     "stat_einkauf": {
       "en": "Volume debit card use in retatil (w/o online)",
@@ -36,5 +51,5 @@
   "details": {
     "en": "Die Daten von SIX Payment Services umfassen bargeldlose Transaktionen und Bargeldbezüge im In- und Ausland, für welche von Schweizer Banken ausgehändigte Debitkarten der folgenden Marken verwendet wurden: Debit Mastercard, Maestro CH, V PAY oder Visa Debit."
   },
-  "utc.updated": "2020-05-06 08:24:43"
+  "utc.updated": "2020-11-23 13:50:55"
 }

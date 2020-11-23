@@ -15,15 +15,14 @@
   "dim.order": "id",
   "hierarchy": {
     "id": {
-      "seas_comp": null,
-      "seas_adj": null,
-      "orig": null,
+      "trendecon_sa": null,
       "clothing_sa": null,
       "garden_sa": null,
       "luxury_sa": null,
       "mobility_sa": null,
       "social_sa": null,
-      "travel_sa": null
+      "travel_sa": null,
+      "fooddelivery_sa": null
     }
   },
   "labels": {
@@ -33,14 +32,8 @@
       }
     },
     "id": {
-      "seas_adj": {
+      "trendecon_sa": {
         "en": "Perceived Economic Situation (daily) seasonal adjusted"
-      },
-      "orig": {
-        "en": "Perceived Economic Situation (daily) original i.e. non seasonal adjusted"
-      },
-      "seas_comp": {
-        "en": "Difference between original and seasonal adjusted Perceived Economic Situation"
       },
       "clothing_sa": {
         "en": "Clothing and Shoes"
@@ -59,9 +52,12 @@
       },
       "travel_sa": {
         "en": "Travel Abroad"
+      },
+      "fooddelivery_sa": {
+        "en": "Food Delivery"
       }
     }
   },
   "details": null,
-  "utc.updated": "2020-05-06 08:24:48"
+  "utc.updated": "2020-11-23 13:51:00"
 }
