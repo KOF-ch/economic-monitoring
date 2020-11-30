@@ -7243,3 +7243,16 @@ time,direction,rnwy,time_frame,value
 2020-11-28,arrival,34,0622,24
 2020-11-28,arrival,34,2200,0
 2020-11-28,arrival,all,total,82
+2020-11-29,arrival,14,0006,0
+2020-11-29,arrival,14,0622,69
+2020-11-29,arrival,14,2200,0
+2020-11-29,arrival,16,0006,0
+2020-11-29,arrival,16,0622,0
+2020-11-29,arrival,16,2200,0
+2020-11-29,arrival,28,0006,0
+2020-11-29,arrival,28,0622,13
+2020-11-29,arrival,28,2200,1
+2020-11-29,arrival,34,0006,0
+2020-11-29,arrival,34,0622,11
+2020-11-29,arrival,34,2200,0
+2020-11-29,arrival,all,total,94
