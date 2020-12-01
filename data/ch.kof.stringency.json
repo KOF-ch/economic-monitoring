@@ -221,5 +221,5 @@
     "fr": null,
     "en": "Stringency index records COVID-related restrictions imposed by Swiss national and cantonal governments. It consists of nine subindices: School closure, workplace closure, cancellation of public events, restrictions on gatherings, public transport closure, stay-at-home requirements, restrictions on internal movement, international travel controls and public info campaigns. These subindices are based on the Oxford Stringency Index. Sources: Oxford COVID-19 Government Response Tracker (github.com/OxCGRT/covid-policy-tracker or bsg.ox.ac.uk/covidtracker), BAG (https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html), GDK list (https://www.gdk-cds.ch/de/praevention-und-gesundheitsfoerderung/neues-coronavirus), SEM (https://www.sem.admin.ch/sem/de/home/sem/aktuell/einreisebeschraenkungen-drittstaaten.html), additional infos for Ticino (https://www.htr.ch/story/ab-sofort-nur-noch-100-personen-in-tessiner-discos-erlaubt-28212.html), further input was received from the ETH-Rat"
   },
-  "utc.updated": "2020-12-01 01:41:29"
+  "utc.updated": "2020-12-01 05:41:38"
 }
