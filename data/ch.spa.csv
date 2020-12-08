@@ -673,3 +673,17 @@ time,variable,value
 2020-11-19,betrag_kktrans_ch_distanz,1.51e+11
 2020-11-19,betrag_kktrans_ch_praes,3.62e+08
 2020-11-19,betrag_kktrans_ch_praes_contactless,2.06e+08
+2020-11-26,anz_kktrans_ausl,3642000
+2020-11-26,anz_kktrans_ausl_distanz,2635000
+2020-11-26,anz_kktrans_ausl_praes,1007000
+2020-11-26,anz_kktrans_ch,7862000
+2020-11-26,anz_kktrans_ch_distanz,2298000
+2020-11-26,anz_kktrans_ch_praes,5564000
+2020-11-26,anz_kktrans_ch_praes_contactless,3915000
+2020-11-26,betrag_kktrans_ausl,3.04e+08
+2020-11-26,betrag_kktrans_ausl_distanz,2.3e+11
+2020-11-26,betrag_kktrans_ausl_praes,7.4e+07
+2020-11-26,betrag_kktrans_ch,6.87e+08
+2020-11-26,betrag_kktrans_ch_distanz,2.57e+11
+2020-11-26,betrag_kktrans_ch_praes,4.3e+08
+2020-11-26,betrag_kktrans_ch_praes_contactless,2.36e+08
