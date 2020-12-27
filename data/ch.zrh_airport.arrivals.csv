@@ -7594,3 +7594,16 @@ time,direction,rnwy,time_frame,value
 2020-12-25,arrival,34,0622,8
 2020-12-25,arrival,34,2200,0
 2020-12-25,arrival,all,total,80
+2020-12-26,arrival,14,0006,0
+2020-12-26,arrival,14,0622,78
+2020-12-26,arrival,14,2200,0
+2020-12-26,arrival,16,0006,0
+2020-12-26,arrival,16,0622,0
+2020-12-26,arrival,16,2200,0
+2020-12-26,arrival,28,0006,0
+2020-12-26,arrival,28,0622,12
+2020-12-26,arrival,28,2200,3
+2020-12-26,arrival,34,0006,0
+2020-12-26,arrival,34,0622,15
+2020-12-26,arrival,34,2200,0
+2020-12-26,arrival,all,total,108
