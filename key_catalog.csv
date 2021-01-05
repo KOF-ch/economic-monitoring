@@ -202,8 +202,8 @@ ch.zrh_city.traffic.z095m002,ch.zrh_city.traffic
 ch.zrh_city.traffic.z097m001,ch.zrh_city.traffic
 ch.zrh_city.traffic.z097m002,ch.zrh_city.traffic
 ch.zrh_city.traffic.total,ch.zrh_city.traffic
-ch.zrh_airport.arrival.arrival.total,ch.zrh_airport.arrival
-ch.zrh_airport.departure.departure.total,ch.zrh_airport.departure
+ch.zrh_airport.arrival.total,ch.zrh_airport.arrival
+ch.zrh_airport.departure.total,ch.zrh_airport.departure
 ch.zrh_city.parking.accu.daily_mean,ch.zrh_city.parking
 ch.zrh_city.parking.albisriederplatz.daily_mean,ch.zrh_city.parking
 ch.zrh_city.parking.amcentral.daily_mean,ch.zrh_city.parking
