@@ -36941,7 +36941,7 @@ time,availability,geo,value
 2021-01-11,immediate,ag,6644
 2021-01-11,immediate,ai,39
 2021-01-11,immediate,ar,292
-2021-01-11,immediate,be,6326
+2021-01-11,immediate,be,6325
 2021-01-11,immediate,bl,1755
 2021-01-11,immediate,bs,2295
 2021-01-11,immediate,fr,5092
@@ -36959,16 +36959,16 @@ time,availability,geo,value
 2021-01-11,immediate,sz,992
 2021-01-11,immediate,tg,1996
 2021-01-11,immediate,ti,4604
-2021-01-11,immediate,tot,94200
+2021-01-11,immediate,tot,94198
 2021-01-11,immediate,ur,263
 2021-01-11,immediate,vd,13180
 2021-01-11,immediate,vs,7565
 2021-01-11,immediate,zg,636
-2021-01-11,immediate,zh,17441
+2021-01-11,immediate,zh,17440
 2021-01-11,tot,ag,16534
 2021-01-11,tot,ai,98
 2021-01-11,tot,ar,905
-2021-01-11,tot,be,14791
+2021-01-11,tot,be,14790
 2021-01-11,tot,bl,5326
 2021-01-11,tot,bs,3966
 2021-01-11,tot,fr,8704
@@ -36986,7 +36986,7 @@ time,availability,geo,value
 2021-01-11,tot,sz,2355
 2021-01-11,tot,tg,5643
 2021-01-11,tot,ti,10436
-2021-01-11,tot,tot,207411
+2021-01-11,tot,tot,207410
 2021-01-11,tot,ur,441
 2021-01-11,tot,vd,27985
 2021-01-11,tot,vs,10754
