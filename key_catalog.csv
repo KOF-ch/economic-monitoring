@@ -4629,6 +4629,7 @@ int.covid19.oxford_policy_tracker.h3_contact_tracing.ury,int.covid19.oxford_poli
 int.covid19.oxford_policy_tracker.h3_contact_tracing.usa,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h3_contact_tracing.uzb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h3_contact_tracing.ven,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.h3_contact_tracing.vir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h3_contact_tracing.vnm,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h3_contact_tracing.vut,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h3_contact_tracing.yem,int.covid19.oxford_policy_tracker
