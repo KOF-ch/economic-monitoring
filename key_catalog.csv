@@ -8111,7 +8111,9 @@ int.covid19.oxford_policy_tracker.h7_flag.srb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.alb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.grl,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c4_flag.jpn,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.c5_flag.can,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.nld,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.h6_flag.swe,int.covid19.oxford_policy_tracker
 ch.kof.mobind.activ.tot.maxmin,ch.kof.mobind
 ch.kof.mobind.mobil.maxmin,ch.kof.mobind
 ch.kof.mobind.sales.maxmin,ch.kof.mobind
