@@ -37316,7 +37316,7 @@ time,availability,geo,value
 2021-01-17,tot,vs,10987
 2021-01-17,tot,zg,2168
 2021-01-17,tot,zh,39995
-2021-01-18,immediate,ag,6689
+2021-01-18,immediate,ag,6688
 2021-01-18,immediate,ai,42
 2021-01-18,immediate,ar,292
 2021-01-18,immediate,be,6420
@@ -37337,13 +37337,13 @@ time,availability,geo,value
 2021-01-18,immediate,sz,999
 2021-01-18,immediate,tg,2029
 2021-01-18,immediate,ti,4631
-2021-01-18,immediate,tot,95515
+2021-01-18,immediate,tot,95514
 2021-01-18,immediate,ur,265
 2021-01-18,immediate,vd,13481
 2021-01-18,immediate,vs,7754
 2021-01-18,immediate,zg,644
 2021-01-18,immediate,zh,17644
-2021-01-18,tot,ag,16743
+2021-01-18,tot,ag,16742
 2021-01-18,tot,ai,102
 2021-01-18,tot,ar,910
 2021-01-18,tot,be,14978
@@ -37354,7 +37354,7 @@ time,availability,geo,value
 2021-01-18,tot,gl,754
 2021-01-18,tot,gr,3152
 2021-01-18,tot,ju,2519
-2021-01-18,tot,lu,7208
+2021-01-18,tot,lu,7209
 2021-01-18,tot,ne,6324
 2021-01-18,tot,nw,512
 2021-01-18,tot,ow,335
