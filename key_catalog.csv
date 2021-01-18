@@ -8062,6 +8062,10 @@ int.covid19.oxford_policy_tracker.c6_flag.nor,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c5_flag.dma,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c5_flag.hkg,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h6_flag.syr,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.e3_fiscal_measures.vir,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.e4_international_support.vir,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.h4_emergency_investment_in_healthcare.vir,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.h5_investment_in_vaccines.vir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.are,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c5_flag.blz,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h6_flag.slb,int.covid19.oxford_policy_tracker
@@ -8122,6 +8126,7 @@ int.covid19.oxford_policy_tracker.h7_flag.pol,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.sgp,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.srb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.mco,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.h7_flag.vir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.alb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.grl,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.irl,int.covid19.oxford_policy_tracker
