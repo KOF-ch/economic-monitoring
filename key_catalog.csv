@@ -8170,6 +8170,7 @@ int.covid19.oxford_policy_tracker.h7_flag.mac,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.bol,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c5_flag.cze,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c2_flag.bdi,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.h7_flag.btn,int.covid19.oxford_policy_tracker
 ch.kof.mobind.activ.tot.maxmin,ch.kof.mobind
 ch.kof.mobind.mobil.maxmin,ch.kof.mobind
 ch.kof.mobind.sales.maxmin,ch.kof.mobind
