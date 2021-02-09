@@ -8173,6 +8173,7 @@ int.covid19.oxford_policy_tracker.h7_flag.mmr,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h4_emergency_investment_in_healthcare.kir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h6_facial_coverings.kir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.pan,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.h7_flag.pri,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.rks,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.mac,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.mus,int.covid19.oxford_policy_tracker

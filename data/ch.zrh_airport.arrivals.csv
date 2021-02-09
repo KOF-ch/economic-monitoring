@@ -8166,3 +8166,16 @@ time,direction,rnwy,time_frame,value
 2021-02-07,arrival,34,0622,8
 2021-02-07,arrival,34,2200,1
 2021-02-07,arrival,all,total,89
+2021-02-08,arrival,14,0006,0
+2021-02-08,arrival,14,0622,43
+2021-02-08,arrival,14,2200,0
+2021-02-08,arrival,16,0006,0
+2021-02-08,arrival,16,0622,0
+2021-02-08,arrival,16,2200,0
+2021-02-08,arrival,28,0006,0
+2021-02-08,arrival,28,0622,19
+2021-02-08,arrival,28,2200,0
+2021-02-08,arrival,34,0006,0
+2021-02-08,arrival,34,0622,2
+2021-02-08,arrival,34,2200,0
+2021-02-08,arrival,all,total,64
