@@ -8170,6 +8170,7 @@ int.covid19.oxford_policy_tracker.h7_flag.lao,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.tkm,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.bhs,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.mmr,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.h7_flag.and,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h4_emergency_investment_in_healthcare.kir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h6_facial_coverings.kir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.pan,int.covid19.oxford_policy_tracker
@@ -8182,6 +8183,7 @@ int.covid19.oxford_policy_tracker.c5_flag.cze,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c2_flag.bdi,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.btn,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.khm,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.h7_flag.pak,int.covid19.oxford_policy_tracker
 ch.kof.mobind.activ.tot.maxmin,ch.kof.mobind
 ch.kof.mobind.mobil.maxmin,ch.kof.mobind
 ch.kof.mobind.sales.maxmin,ch.kof.mobind
