@@ -1,0 +1,138 @@
+{
+  "title": {
+    "en": "MOBIS Mobility Behavior"
+  },
+  "source.name": {
+    "en": "IVT ETHZ"
+  },
+  "source.url": "https://www.ivtmobis.ethz.ch/mobis/en",
+  "dim.order": ["variable", "group"],
+  "hierarchy": {
+    "variable": {
+      "mittelwert": null,
+      "median": null,
+      "pendleranteil": null
+    },
+    "group": {
+      "total": null,
+      "kanton_zuerich_ja": null,
+      "kanton_zuerich_nein": null,
+      "alter_15_29": null,
+      "alter_30_64": null,
+      "alter_65_79": null,
+      "maennlich": null,
+      "weiblich": null,
+      "staedtisch": null,
+      "laendisch": null,
+      "erwerbstaetig": null,
+      "in_ausbildung": null,
+      "abotyp_ga": null,
+      "abotyp_halbtax_strecken__verbundabo": null,
+      "abotyp_kein_abo": null,
+      "auto_ja": null,
+      "auto_nein": null,
+      "haushaltsgroesse_1_person": null,
+      "haushaltsgroesse_2_personen": null,
+      "haushaltsgroesse_3__personen": null,
+      "kinder_ja": null,
+      "kinder_nein": null,
+      "d_ch": null,
+      "f_ch": null
+    }
+  },
+  "labels": {
+    "dim.names": {
+      "measurement": {
+        "en": "measurement"
+      },
+      "variable": {
+        "en": "variable"
+      }
+    },
+    "mittelwert": {
+      "en": "mean"
+    },
+    "median": {
+      "en": "median"
+    },
+    "pendleranteil": {
+      "en": "share of commuters"
+    },
+    "total": {
+      "en": "in Switzerland"
+    },
+    "kanton_zuerich_ja": {
+      "en": "only in Zurich"
+    },
+    "kanton_zuerich_nein": {
+      "en": "Switzerland excluding Zurich"
+    },
+    "alter_15_29": {
+      "en": "Ages 15 - 29"
+    },
+    "alter_30_64": {
+      "en": "ages 30 - 64"
+    },
+    "alter_65_79": {
+      "en": "ages 65 - 79"
+    },
+    "maennlich": {
+      "en": "male"
+    },
+    "weiblich": {
+      "en": "female"
+    },
+    "staedtisch": {
+      "en": "Urban"
+    },
+    "laendisch": {
+      "en": "rural"
+    },
+    "erwerbstaetig": {
+      "en": "employed"
+    },
+    "in_ausbildung": {
+      "en": "in education"
+    },
+    "abotyp_ga": {
+      "en": "with GA"
+    },
+    "abotyp_halbtax_strecken__verbundabo": {
+      "en": "with other travelcards"
+    },
+    "abotyp_kein_abo": {
+      "en": "without GA or travelcard"
+    },
+    "auto_ja": {
+      "en": "car owned"
+    },
+    "auto_nein": {
+      "en": "no car owned"
+    },
+    "haushaltsgroesse_1_person": {
+      "en": "size of household 1 person"
+    },
+    "haushaltsgroesse_2_personen": {
+      "en": "size of household 2 people"
+    },
+    "haushaltsgroesse_3__personen": {
+      "en": "size of household larger than 2 people"
+    },
+    "kinder_ja": {
+      "en": "children in household"
+    },
+    "kinder_nein": {
+      "en": "no children in household"
+    },
+    "d_ch": {
+      "en": "German speaking part"
+    },
+    "f_ch": {
+      "en": "French speaking part"
+    }
+  },
+  "details": {
+    "en": "Mobility data collected by IVT at ETH Zurich."
+  },
+  "utc.updated": "2021-02-23 13:51:24"
+}
