@@ -8220,6 +8220,7 @@ int.covid19.oxford_policy_tracker.h7_flag.brb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.dma,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.tto,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.abw,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.h7_flag.dza,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.mng,int.covid19.oxford_policy_tracker
 ch.kof.mobind.activ.tot.maxmin,ch.kof.mobind
 ch.kof.mobind.mobil.maxmin,ch.kof.mobind
