@@ -8595,3 +8595,16 @@ time,direction,rnwy,time_frame,value
 2021-03-12,arrival,34,0622,0
 2021-03-12,arrival,34,2200,0
 2021-03-12,arrival,all,total,73
+2021-03-13,arrival,14,0006,0
+2021-03-13,arrival,14,0622,0
+2021-03-13,arrival,14,2200,0
+2021-03-13,arrival,16,0006,0
+2021-03-13,arrival,16,0622,0
+2021-03-13,arrival,16,2200,0
+2021-03-13,arrival,28,0006,0
+2021-03-13,arrival,28,0622,65
+2021-03-13,arrival,28,2200,2
+2021-03-13,arrival,34,0006,0
+2021-03-13,arrival,34,0622,0
+2021-03-13,arrival,34,2200,0
+2021-03-13,arrival,all,total,67
