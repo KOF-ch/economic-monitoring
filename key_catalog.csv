@@ -8633,6 +8633,8 @@ int.covid19.oxford_policy_tracker.h7_flag.swz,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.bwa,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.ben,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.kgz,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.h7_flag.lbr,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.c5_flag.bel,int.covid19.oxford_policy_tracker
 ch.kof.mobind.activ.tot.maxmin,ch.kof.mobind
 ch.kof.mobind.mobil.maxmin,ch.kof.mobind
 ch.kof.mobind.sales.maxmin,ch.kof.mobind
