@@ -9154,3 +9154,16 @@ time,direction,rnwy,time_frame,value
 2021-04-24,arrival,34,0622,14
 2021-04-24,arrival,34,2200,0
 2021-04-24,arrival,all,total,119
+2021-04-25,arrival,14,0006,0
+2021-04-25,arrival,14,0622,91
+2021-04-25,arrival,14,2200,0
+2021-04-25,arrival,16,0006,0
+2021-04-25,arrival,16,0622,0
+2021-04-25,arrival,16,2200,0
+2021-04-25,arrival,28,0006,0
+2021-04-25,arrival,28,0622,0
+2021-04-25,arrival,28,2200,0
+2021-04-25,arrival,34,0006,0
+2021-04-25,arrival,34,0622,25
+2021-04-25,arrival,34,2200,8
+2021-04-25,arrival,all,total,124
