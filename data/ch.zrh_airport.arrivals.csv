@@ -9180,3 +9180,16 @@ time,direction,rnwy,time_frame,value
 2021-04-26,arrival,34,0622,5
 2021-04-26,arrival,34,2200,1
 2021-04-26,arrival,all,total,90
+2021-04-27,arrival,14,0006,0
+2021-04-27,arrival,14,0622,58
+2021-04-27,arrival,14,2200,0
+2021-04-27,arrival,16,0006,0
+2021-04-27,arrival,16,0622,0
+2021-04-27,arrival,16,2200,0
+2021-04-27,arrival,28,0006,0
+2021-04-27,arrival,28,0622,5
+2021-04-27,arrival,28,2200,1
+2021-04-27,arrival,34,0006,0
+2021-04-27,arrival,34,0622,3
+2021-04-27,arrival,34,2200,0
+2021-04-27,arrival,all,total,67
