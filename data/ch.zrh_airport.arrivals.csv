@@ -9310,3 +9310,16 @@ time,direction,rnwy,time_frame,value
 2021-05-06,arrival,34,0622,5
 2021-05-06,arrival,34,2200,0
 2021-05-06,arrival,all,total,84
+2021-05-07,arrival,14,0006,0
+2021-05-07,arrival,14,0622,0
+2021-05-07,arrival,14,2200,0
+2021-05-07,arrival,16,0006,0
+2021-05-07,arrival,16,0622,0
+2021-05-07,arrival,16,2200,0
+2021-05-07,arrival,28,0006,0
+2021-05-07,arrival,28,0622,121
+2021-05-07,arrival,28,2200,5
+2021-05-07,arrival,34,0006,0
+2021-05-07,arrival,34,0622,0
+2021-05-07,arrival,34,2200,0
+2021-05-07,arrival,all,total,126
