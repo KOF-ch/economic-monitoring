@@ -8684,6 +8684,8 @@ int.covid19.oxford_policy_tracker.h5_investment_in_vaccines.lie,int.covid19.oxfo
 int.covid19.oxford_policy_tracker.h7_flag.lie,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_vaccination_policy.lie,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c7_flag.and,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.c4_flag.blr,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.c6_flag.blr,int.covid19.oxford_policy_tracker
 ch.kof.mobind.activ.tot.maxmin,ch.kof.mobind
 ch.kof.mobind.mobil.maxmin,ch.kof.mobind
 ch.kof.mobind.sales.maxmin,ch.kof.mobind
