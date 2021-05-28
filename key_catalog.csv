@@ -6409,6 +6409,7 @@ int.covid19.oxford_policy_tracker.confirmedcases.jor,int.covid19.oxford_policy_t
 int.covid19.oxford_policy_tracker.confirmedcases.kaz,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.confirmedcases.ken,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.confirmedcases.kgz,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.confirmedcases.kir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.confirmedcases.lao,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.confirmedcases.lbr,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.confirmedcases.lby,int.covid19.oxford_policy_tracker
@@ -6529,6 +6530,7 @@ int.covid19.oxford_policy_tracker.confirmeddeaths.jor,int.covid19.oxford_policy_
 int.covid19.oxford_policy_tracker.confirmeddeaths.kaz,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.confirmeddeaths.ken,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.confirmeddeaths.kgz,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.confirmeddeaths.kir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.confirmeddeaths.lao,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.confirmeddeaths.lbr,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.confirmeddeaths.lby,int.covid19.oxford_policy_tracker
