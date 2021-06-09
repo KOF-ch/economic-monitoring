@@ -9726,3 +9726,16 @@ time,direction,rnwy,time_frame,value
 2021-06-07,arrival,34,0622,8
 2021-06-07,arrival,34,2200,6
 2021-06-07,arrival,all,total,156
+2021-06-08,arrival,14,0006,0
+2021-06-08,arrival,14,0622,75
+2021-06-08,arrival,14,2200,0
+2021-06-08,arrival,16,0006,0
+2021-06-08,arrival,16,0622,25
+2021-06-08,arrival,16,2200,0
+2021-06-08,arrival,28,0006,0
+2021-06-08,arrival,28,0622,7
+2021-06-08,arrival,28,2200,4
+2021-06-08,arrival,34,0006,0
+2021-06-08,arrival,34,0622,5
+2021-06-08,arrival,34,2200,0
+2021-06-08,arrival,all,total,116
