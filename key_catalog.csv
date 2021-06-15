@@ -8703,6 +8703,7 @@ int.covid19.oxford_policy_tracker.c3_flag.kir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c4_flag.kir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h6_flag.kir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.kir,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.h7_flag.vut,int.covid19.oxford_policy_tracker
 ch.kof.mobind.activ.tot.maxmin,ch.kof.mobind
 ch.kof.mobind.mobil.maxmin,ch.kof.mobind
 ch.kof.mobind.sales.maxmin,ch.kof.mobind
