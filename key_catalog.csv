@@ -8723,6 +8723,7 @@ int.covid19.oxford_policy_tracker.h8_flag.ben,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.e1_flag.gha,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.e1_flag.blr,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h8_flag.tza,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.e1_flag.lbn,int.covid19.oxford_policy_tracker
 de.destatis.trucktoll.nsa,de.destatis.trucktoll
 de.destatis.trucktoll.sa,de.destatis.trucktoll
 ch.kof.stringency.ag.c1_schoolclosing,ch.kof.stringency

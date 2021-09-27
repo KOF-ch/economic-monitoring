@@ -11131,7 +11131,7 @@ time,direction,rnwy,time_frame,value
 2021-09-23,arrival,34,2200,0
 2021-09-23,arrival,all,total,264
 2021-09-24,arrival,14,0006,0
-2021-09-24,arrival,14,0622,244
+2021-09-24,arrival,14,0622,245
 2021-09-24,arrival,14,2200,0
 2021-09-24,arrival,16,0006,0
 2021-09-24,arrival,16,0622,0
@@ -11142,7 +11142,7 @@ time,direction,rnwy,time_frame,value
 2021-09-24,arrival,34,0006,0
 2021-09-24,arrival,34,0622,5
 2021-09-24,arrival,34,2200,0
-2021-09-24,arrival,all,total,290
+2021-09-24,arrival,all,total,291
 2021-09-25,arrival,14,0006,0
 2021-09-25,arrival,14,0622,205
 2021-09-25,arrival,14,2200,0
@@ -11156,3 +11156,16 @@ time,direction,rnwy,time_frame,value
 2021-09-25,arrival,34,0622,0
 2021-09-25,arrival,34,2200,0
 2021-09-25,arrival,all,total,256
+2021-09-26,arrival,14,0006,0
+2021-09-26,arrival,14,0622,233
+2021-09-26,arrival,14,2200,0
+2021-09-26,arrival,16,0006,0
+2021-09-26,arrival,16,0622,0
+2021-09-26,arrival,16,2200,0
+2021-09-26,arrival,28,0006,0
+2021-09-26,arrival,28,0622,42
+2021-09-26,arrival,28,2200,24
+2021-09-26,arrival,34,0006,0
+2021-09-26,arrival,34,0622,0
+2021-09-26,arrival,34,2200,0
+2021-09-26,arrival,all,total,299
