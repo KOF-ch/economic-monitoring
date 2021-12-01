@@ -12001,3 +12001,16 @@ time,direction,rnwy,time_frame,value
 2021-11-29,arrival,34,0622,7
 2021-11-29,arrival,34,2200,1
 2021-11-29,arrival,all,total,205
+2021-11-30,arrival,14,0006,0
+2021-11-30,arrival,14,0622,88
+2021-11-30,arrival,14,2200,0
+2021-11-30,arrival,16,0006,0
+2021-11-30,arrival,16,0622,0
+2021-11-30,arrival,16,2200,0
+2021-11-30,arrival,28,0006,0
+2021-11-30,arrival,28,0622,91
+2021-11-30,arrival,28,2200,3
+2021-11-30,arrival,34,0006,0
+2021-11-30,arrival,34,0622,6
+2021-11-30,arrival,34,2200,0
+2021-11-30,arrival,all,total,188
