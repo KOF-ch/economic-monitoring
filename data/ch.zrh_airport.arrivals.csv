@@ -12599,3 +12599,16 @@ time,direction,rnwy,time_frame,value
 2022-01-14,arrival,34,0622,8
 2022-01-14,arrival,34,2200,0
 2022-01-14,arrival,all,total,210
+2022-01-15,arrival,14,0006,0
+2022-01-15,arrival,14,0622,166
+2022-01-15,arrival,14,2200,7
+2022-01-15,arrival,16,0006,0
+2022-01-15,arrival,16,0622,0
+2022-01-15,arrival,16,2200,0
+2022-01-15,arrival,28,0006,0
+2022-01-15,arrival,28,0622,0
+2022-01-15,arrival,28,2200,0
+2022-01-15,arrival,34,0006,0
+2022-01-15,arrival,34,0622,5
+2022-01-15,arrival,34,2200,0
+2022-01-15,arrival,all,total,178
