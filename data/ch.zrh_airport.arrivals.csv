@@ -12639,7 +12639,7 @@ time,direction,rnwy,time_frame,value
 2022-01-17,arrival,34,2200,0
 2022-01-17,arrival,all,total,193
 2022-01-18,arrival,14,0006,0
-2022-01-18,arrival,14,0622,147
+2022-01-18,arrival,14,0622,148
 2022-01-18,arrival,14,2200,0
 2022-01-18,arrival,16,0006,0
 2022-01-18,arrival,16,0622,0
@@ -12650,7 +12650,7 @@ time,direction,rnwy,time_frame,value
 2022-01-18,arrival,34,0006,0
 2022-01-18,arrival,34,0622,15
 2022-01-18,arrival,34,2200,1
-2022-01-18,arrival,all,total,163
+2022-01-18,arrival,all,total,164
 2022-01-19,arrival,14,0006,0
 2022-01-19,arrival,14,0622,119
 2022-01-19,arrival,14,2200,0
@@ -12664,3 +12664,16 @@ time,direction,rnwy,time_frame,value
 2022-01-19,arrival,34,0622,7
 2022-01-19,arrival,34,2200,0
 2022-01-19,arrival,all,total,162
+2022-01-20,arrival,14,0006,0
+2022-01-20,arrival,14,0622,146
+2022-01-20,arrival,14,2200,0
+2022-01-20,arrival,16,0006,0
+2022-01-20,arrival,16,0622,0
+2022-01-20,arrival,16,2200,0
+2022-01-20,arrival,28,0006,0
+2022-01-20,arrival,28,0622,17
+2022-01-20,arrival,28,2200,4
+2022-01-20,arrival,34,0006,0
+2022-01-20,arrival,34,0622,3
+2022-01-20,arrival,34,2200,0
+2022-01-20,arrival,all,total,170
