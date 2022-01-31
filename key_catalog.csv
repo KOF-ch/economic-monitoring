@@ -10035,6 +10035,9 @@ int.covid19.oxford_policy_tracker.h6_flag.vut,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c7_flag.mwi,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.e1_flag.lby,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c5_flag.bdi,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.c2_flag.kir,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.c5_flag.kir,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.c7_flag.kir,int.covid19.oxford_policy_tracker
 de.destatis.trucktoll.nsa,de.destatis.trucktoll
 de.destatis.trucktoll.sa,de.destatis.trucktoll
 ch.kof.stringency.ag.c1_schoolclosing,ch.kof.stringency
