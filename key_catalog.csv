@@ -8789,6 +8789,7 @@ int.covid19.oxford_policy_tracker.e1_flag.btn,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.e1_flag.kgz,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h8_flag.idn,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h8_flag.omn,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.h8_flag.slb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h8_flag.smr,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c2_flag.som,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c5_flag.gum,int.covid19.oxford_policy_tracker
@@ -8919,6 +8920,7 @@ int.covid19.oxford_policy_tracker.e1_flag.sur,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h6_flag.kwt,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.e1_flag.dma,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c5_flag.slb,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.c6_flag.slb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h6_flag.lka,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.e1_flag.khm,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h6_flag.hnd,int.covid19.oxford_policy_tracker
@@ -10036,9 +10038,11 @@ int.covid19.oxford_policy_tracker.c7_flag.mwi,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.e1_flag.lby,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c7_flag.bdi,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c5_flag.bdi,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.c4_flag.slb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c2_flag.kir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c5_flag.kir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c7_flag.kir,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.c5_flag.caf,int.covid19.oxford_policy_tracker
 de.destatis.trucktoll.nsa,de.destatis.trucktoll
 de.destatis.trucktoll.sa,de.destatis.trucktoll
 ch.kof.stringency.ag.c1_schoolclosing,ch.kof.stringency
