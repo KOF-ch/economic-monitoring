@@ -10044,6 +10044,7 @@ int.covid19.oxford_policy_tracker.c5_flag.kir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c7_flag.kir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c5_flag.caf,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h8_flag.kir,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.c6_flag.bdi,int.covid19.oxford_policy_tracker
 de.destatis.trucktoll.nsa,de.destatis.trucktoll
 de.destatis.trucktoll.sa,de.destatis.trucktoll
 ch.kof.stringency.ag.c1_schoolclosing,ch.kof.stringency
