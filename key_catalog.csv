@@ -9513,9 +9513,13 @@ int.covid19.oxford_policy_tracker.v2f_frontline_workers__(non_healthcare).irn,in
 int.covid19.oxford_policy_tracker.v2f_frontline_workers__(non_healthcare).mac,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2g_frontline_workers__(healthcare).irn,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2g_frontline_workers__(healthcare).mac,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.v2d_medically__clinically_vulnerable_(non-elderly).brb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2d_medically__clinically_vulnerable_(non-elderly).khm,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.v2e_education.brb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2e_education.khm,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.v2f_frontline_workers__(non_healthcare).brb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2f_frontline_workers__(non_healthcare).khm,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.v2g_frontline_workers__(healthcare).brb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2g_frontline_workers__(healthcare).khm,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2d_medically__clinically_vulnerable_(non-elderly).bih,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2d_medically__clinically_vulnerable_(non-elderly).guy,int.covid19.oxford_policy_tracker
@@ -9526,13 +9530,9 @@ int.covid19.oxford_policy_tracker.v2f_frontline_workers__(non_healthcare).guy,in
 int.covid19.oxford_policy_tracker.v2g_frontline_workers__(healthcare).bih,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2g_frontline_workers__(healthcare).guy,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.bmu,int.covid19.oxford_policy_tracker
-int.covid19.oxford_policy_tracker.v2d_medically__clinically_vulnerable_(non-elderly).brb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2d_medically__clinically_vulnerable_(non-elderly).lbn,int.covid19.oxford_policy_tracker
-int.covid19.oxford_policy_tracker.v2e_education.brb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2e_education.lbn,int.covid19.oxford_policy_tracker
-int.covid19.oxford_policy_tracker.v2f_frontline_workers__(non_healthcare).brb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2f_frontline_workers__(non_healthcare).lbn,int.covid19.oxford_policy_tracker
-int.covid19.oxford_policy_tracker.v2g_frontline_workers__(healthcare).brb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2g_frontline_workers__(healthcare).lbn,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.dom,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.smr,int.covid19.oxford_policy_tracker
