@@ -15104,7 +15104,7 @@ time,direction,rnwy,route,value
 2022-03-25,departure,34,N,1
 2022-03-25,departure,34,O,1
 2022-03-25,departure,all,total,250
-2022-03-26,departure,10,A,21
+2022-03-26,departure,10,A,20
 2022-03-26,departure,10,B,0
 2022-03-26,departure,10,C,42
 2022-03-26,departure,10,D,0
@@ -15118,7 +15118,7 @@ time,direction,rnwy,route,value
 2022-03-26,departure,32,O,19
 2022-03-26,departure,34,N,4
 2022-03-26,departure,34,O,2
-2022-03-26,departure,all,total,218
+2022-03-26,departure,all,total,217
 2022-03-27,departure,10,A,0
 2022-03-27,departure,10,B,0
 2022-03-27,departure,10,C,0
@@ -15149,3 +15149,18 @@ time,direction,rnwy,route,value
 2022-03-28,departure,34,N,2
 2022-03-28,departure,34,O,0
 2022-03-28,departure,all,total,256
+2022-03-29,departure,10,A,0
+2022-03-29,departure,10,B,0
+2022-03-29,departure,10,C,0
+2022-03-29,departure,10,D,0
+2022-03-29,departure,16,E,12
+2022-03-29,departure,16,F,7
+2022-03-29,departure,16,G,0
+2022-03-29,departure,28,I,99
+2022-03-29,departure,28,K,93
+2022-03-29,departure,28,L,0
+2022-03-29,departure,32,N,8
+2022-03-29,departure,32,O,5
+2022-03-29,departure,34,N,7
+2022-03-29,departure,34,O,0
+2022-03-29,departure,all,total,231
