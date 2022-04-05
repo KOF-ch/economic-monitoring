@@ -9103,6 +9103,7 @@ int.covid19.oxford_policy_tracker.v2f_frontline_workers__(non_healthcare).pri,in
 int.covid19.oxford_policy_tracker.v2g_frontline_workers__(healthcare).can,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2g_frontline_workers__(healthcare).gum,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2g_frontline_workers__(healthcare).pri,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).gum,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2d_medically__clinically_vulnerable_(non-elderly).lva,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2d_medically__clinically_vulnerable_(non-elderly).vir,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2e_education.lva,int.covid19.oxford_policy_tracker
@@ -9536,7 +9537,6 @@ int.covid19.oxford_policy_tracker.v2f_frontline_workers__(non_healthcare).bih,in
 int.covid19.oxford_policy_tracker.v2f_frontline_workers__(non_healthcare).guy,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2g_frontline_workers__(healthcare).bih,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2g_frontline_workers__(healthcare).guy,int.covid19.oxford_policy_tracker
-int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).gum,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.bmu,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2d_medically__clinically_vulnerable_(non-elderly).lbn,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2e_education.lbn,int.covid19.oxford_policy_tracker
@@ -10062,6 +10062,7 @@ int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).grc,int.cov
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).tur,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).nga,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).mys,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).blz,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).pse,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).egy,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).guy,int.covid19.oxford_policy_tracker
@@ -10116,6 +10117,7 @@ int.covid19.oxford_policy_tracker.e1_flag.lby,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).deu,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).gbr,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).irl,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).bmu,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).mdg,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).prt,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).lva,int.covid19.oxford_policy_tracker
@@ -10128,6 +10130,7 @@ int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).vnm,int.cov
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).lao,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).swe,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).gmb,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).grl,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).ken,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).mwi,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).phl,int.covid19.oxford_policy_tracker
@@ -10200,7 +10203,6 @@ int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).dom,int.cov
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).ton,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).tto,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).kgz,int.covid19.oxford_policy_tracker
-int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).bmu,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).lka,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).pan,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).zwe,int.covid19.oxford_policy_tracker
@@ -10235,7 +10237,6 @@ int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).eri,int.cov
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).ind,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).kwt,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).mli,int.covid19.oxford_policy_tracker
-int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).blz,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).fro,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).jpn,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c2_flag.kir,int.covid19.oxford_policy_tracker
@@ -10256,7 +10257,6 @@ int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).cpv,int.cov
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).dma,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).dnk,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).gab,int.covid19.oxford_policy_tracker
-int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).grl,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).hnd,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).isr,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).lux,int.covid19.oxford_policy_tracker
