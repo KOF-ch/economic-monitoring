@@ -10046,6 +10046,7 @@ int.covid19.oxford_policy_tracker.v2d_medically__clinically_vulnerable_(non-elde
 int.covid19.oxford_policy_tracker.v2e_education.hti,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2f_frontline_workers__(non_healthcare).hti,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v2g_frontline_workers__(healthcare).hti,int.covid19.oxford_policy_tracker
+int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).hti,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).nzl,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).rus,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.h7_flag.hti,int.covid19.oxford_policy_tracker
@@ -10102,7 +10103,6 @@ int.covid19.oxford_policy_tracker.c3_flag.bdi,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c7_flag.mac,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).alb,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).srb,int.covid19.oxford_policy_tracker
-int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).hti,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.v4_mandatory_vaccination_(summary).hrv,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c2_flag.tza,int.covid19.oxford_policy_tracker
 int.covid19.oxford_policy_tracker.c5_flag.tza,int.covid19.oxford_policy_tracker
